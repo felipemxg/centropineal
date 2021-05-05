@@ -110,5 +110,5 @@ QUE TODOS OS SERES PERMITAM QUE O AMOR FLUA EM TODAS AS DIREÇÕES.
 
 QUE TODOS OS SERES VIVAM UMA VIDA LIVRE E FELIZ.
 
-Fonte: [LOVE IS ALL YOU NEED. An edited talk by Christopher Titmuss in Ängsbacka Festival, Sweden, 2004 – Christopher Titmuss Dharma Blog (christophertitmussblog.org)](https://www.christophertitmussblog.org/love-is-all-you-need-a-edited-talk-by-christopher-titmuss-in-angsbacka-festival-sweden-2004)
+_Fonte: [LOVE IS ALL YOU NEED. An edited talk by Christopher Titmuss in Ängsbacka Festival, Sweden, 2004 – Christopher Titmuss Dharma Blog (christophertitmussblog.org)](https://www.christophertitmussblog.org/love-is-all-you-need-a-edited-talk-by-christopher-titmuss-in-angsbacka-festival-sweden-2004)_
 
