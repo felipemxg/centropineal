@@ -30,4 +30,5 @@ fields:
   name: author
   label: author
 pages:
+- content/blog/como-meditar-em-metta.md
 - content/blog/teste.md
