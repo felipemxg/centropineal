@@ -11,7 +11,7 @@ tags:
 - HTML
 - Python
 - New
-type: featured
+type: post
 
 ---
 # Heading 1
