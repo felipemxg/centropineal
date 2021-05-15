@@ -1,7 +1,7 @@
 ---
 title: How To Use Checklists To Improve Your UX
 date: 2019-10-29T10:07:47.000+06:00
-image: images/post/post-5.jpg
+image: "/uploads/f8132e03-2cfb-41b9-8659-0577fb4a19cd.webp"
 description: this is meta description
 categories:
 - Go Language
