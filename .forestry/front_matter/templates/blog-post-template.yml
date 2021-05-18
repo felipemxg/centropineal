@@ -29,5 +29,3 @@ fields:
 - type: text
   name: author
   label: author
-pages:
-- content/blog/como-meditar-em-metta.md
