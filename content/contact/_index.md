@@ -1,13 +1,18 @@
 ---
-title: "Get In Touch"
-date: 2019-10-29T13:49:23+06:00
-draft: false
+title: 'Entre em contato conosco '
+date: 2019-10-29T13:49:23.000+06:00
+description: this is meta description
 
-# meta description
-description: "this is meta description"
-
-# type
-type : "contact"
 ---
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+  
+  
+Escola orgânica e digital de Meditação, Yoga e Biohacking  
+🧘‍♀️ Aulas de [#Meditação](https://www.instagram.com/explore/tags/medita%C3%A7%C3%A3o/), [#Yoga](https://www.instagram.com/explore/tags/yoga/) e [#Biohacking](https://www.instagram.com/explore/tags/biohacking/)  
+Workshops, tecnologias e estudos.  
+  
+Dúvidas, sugestões e aulas experimentais?  
+  
+Entre em contato 👇  
+  
+Whatsapp: (41) 995126513  
+Email: contatopineal@gmail.com
