@@ -2,7 +2,7 @@
 title: Sobre o Centro Pineal
 date: 2019-10-29T13:49:23.000+06:00
 image: "/uploads/f8132e03-2cfb-41b9-8659-0577fb4a19cd.webp"
-description: this is meta description
+description: Comece por aqui
 
 ---
 \**               UNINDO O ANCESTRAL COM O ATUAL  
