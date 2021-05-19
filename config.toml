@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://centropineal.netlify.app"
+baseURL = "https://centropineal.com.br"
 languageCode = "pt-br"
 title = "Centro Pineal"
 theme = "liva-hugo"
