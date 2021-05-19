@@ -1,29 +1,20 @@
 ---
-title: "Amor é Tudo Que Você Precisa"
-date: 2019-05-05T12:30:47+06:00
-draft: false
-
-# post thumb
-image: "images/post/amor.jpg"
-
-# meta description
-description: "Uma palestra editada por Christopher Titmuss no Festival Ängsbacka, Suécia, 2004"
-
-# taxonomies
+title: Amor é Tudo Que Você Precisa
+date: 2019-05-05T12:30:47.000+06:00
+image: "/images/mayur-gala-2podhmrvlik-unsplash.jpg"
+description: Uma palestra editada por Christopher Titmuss no Festival Ängsbacka, Suécia,
+  2004
 categories:
-  - "Metta"
+- Metta
 tags:
-  - "Amor"
-  - "Meditação"
-  - "Vipassana"
-  - "U Pandita"
-
-# post type
-type: "featured"
-
+- Amor
+- Meditação
+- Vipassana
+- U Pandita
+type: featured
 author: Christopher Titmuss
----
 
+---
 #### Uma palestra editada por Christopher Titmuss no Festival Ängsbacka, Suécia, 2004. Traduzido por Felipe Marx.
 
 Você poderia pensar que agora todos nós seríamos mega-especialistas em questões de amor. No nosso dia a dia, mal podemos escapar. As intermináveis transmissões de novelas e filmes de televisão lidam com questões do coração e da complexidade das relações humanas. Pop, rock, R&B, rap e todas as outras formas de música cantam sobre o amor. Poesia, romances, peças e artes são tudo sobre amor. Amor, amor, amor...
@@ -111,4 +102,3 @@ QUE TODOS OS SERES PERMITAM QUE O AMOR FLUA EM TODAS AS DIREÇÕES.
 QUE TODOS OS SERES VIVAM UMA VIDA LIVRE E FELIZ.
 
 _Fonte: [LOVE IS ALL YOU NEED. An edited talk by Christopher Titmuss in Ängsbacka Festival, Sweden, 2004 – Christopher Titmuss Dharma Blog (christophertitmussblog.org)](https://www.christophertitmussblog.org/love-is-all-you-need-a-edited-talk-by-christopher-titmuss-in-angsbacka-festival-sweden-2004)_
-
