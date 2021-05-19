@@ -1,7 +1,7 @@
 ---
 title: Sobre o Centro Pineal
 date: 2019-10-29T13:49:23.000+06:00
-image: "/images/f8132e03-2cfb-41b9-8659-0577fb4a19cd.webp"
+image: "/images/untitled_artwork.png"
 description: Comece por aqui
 
 ---
