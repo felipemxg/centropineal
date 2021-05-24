@@ -6,7 +6,7 @@ description = ""
 image = "/images/pexels-anna-tarazevich-5910764.jpg"
 tags = []
 title = "O Poder do Foi"
-type = ""
+type = "post"
 
 +++
 _Traduzido por Felipe Marx_
