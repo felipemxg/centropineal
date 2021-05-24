@@ -6,7 +6,7 @@ description = ""
 image = "/images/pexels-anna-tarazevich-5910764.jpg"
 tags = ["shinzen"]
 title = "O Poder do Foi"
-type = "posts"
+type = "post"
 
 +++
 
