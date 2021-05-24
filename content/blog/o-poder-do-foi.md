@@ -9,7 +9,6 @@ title = "O Poder do Foi"
 type = "post"
 
 +++
-_Traduzido por Felipe Marx_
 
 > _E até que você saiba disso:_
 >
@@ -155,3 +154,5 @@ Desaparecimento foi conhecido e cultivado em todas as idades e em todas as cultu
 * Amor Verdadeiro (_Shinjitsu no ai_ de acordo com Jōshū Sasaki Rōshi)
 
 ### _GATE GATE PARAGATE PARASAṂGATE BODHI SVĀHĀ_
+
+_Traduzido por Felipe Marx_
