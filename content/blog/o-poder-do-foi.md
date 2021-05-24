@@ -4,7 +4,7 @@ categories = ["Meditação"]
 date = 2021-05-24T16:26:15Z
 description = ""
 image = "/images/pexels-anna-tarazevich-5910764.jpg"
-tags = ["shinzen"]
+tags = ["meditação", "shinzen"]
 title = "O Poder do Foi"
 type = "post"
 
