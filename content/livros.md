@@ -9,5 +9,7 @@ title = "Livros"
 type = ""
 [menu.footer]
 weight = 3
+[menu.main]
+weight = 3
 
 +++
