@@ -1,141 +1,97 @@
-######################## default configuration ####################
 baseURL = "https://centropineal.com.br"
-languageCode = "pt-br"
-title = "Centro Pineal"
-theme = "liva-hugo"
-summaryLength = "10"
-paginate = 6
 disqusShortname = ""
-
+languageCode = "pt-br"
+paginate = 6
+summaryLength = "10"
+theme = "liva-hugo"
+title = "Centro Pineal"
+[[menu.footer]]
+URL = "contact"
+name = "Contato"
+weight = 4
+[[menu.footer]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.footer]]
+URL = "about"
+name = "Sobre"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contato"
+weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "Sobre"
+weight = 1
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
-
-############################# Plugins ##############################
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
-  [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
-  [[params.plugins.css]]
-  URL = "plugins/venobox/venobox.css"
-
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/venobox/venobox.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/fuse.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/mark.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/search.js"
-
-
-############################## navigation ###############################
-[menu]
-
-  # main menu
-  [[menu.main]]
-  name = "Sobre"
-  URL = "about"
-  weight = 1
-
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 2
-
-  [[menu.main]]
-  name = "Contato"
-  URL = "contact"
-  weight = 3
-
-  # footer menu
-  [[menu.footer]]
-  name = "Sobre"
-  URL = "about"
-  weight = 1
-
-  [[menu.footer]]
-  name = "Blog"
-  URL = "blog"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Contato"
-  URL = "contact"
-  weight = 3
-
-
-#################### default parameters ################################
+home = ["HTML", "RSS", "JSON"]
 [params]
-logo = "images/logo.png"
-home = "Home"
-# Meta data
-description = "Centro Pineal"
 author = "Centro Pineal"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
-# Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Brasil"
-# copyright
 copyright = "copyright &copy; Centro Pinel 2020 | Todos Direitos Reservados | [Themefisher](https://themefisher.com)"
-
-  # Preloader
-  [params.preloader]
-  enable = true
-  preloader = "" # use .png , .svg or .gif format
-
-  # search
-  [params.search]
-  enable = true
-
-############################ news letter ########################
-[params.newsletter]
-enable = false
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
-
-
-# cookies
+description = "Centro Pineal"
+email = "demo@email.com"
+googleAnalitycsID = "Your ID"
+home = "Home"
+location = "Brasil"
+logo = "images/logo.png"
+mobile = "0124857985320"
 [params.cookies]
 enable = false
 expire_days = 2
-
-
-############################# social site ########################
+[params.newsletter]
+content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+enable = false
+title = "Join Our Newsletter"
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/venobox/venobox.css"
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/venobox/venobox.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/mark.js"
+[[params.plugins.js]]
+URL = "plugins/search/search.js"
+[params.preloader]
+enable = true
+preloader = ""
+[params.search]
+enable = true
 [[params.social]]
+icon = "ti-facebook"
+link = "#"
 title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
 title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
+icon = "ti-instagram"
+link = "#"
 title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
+icon = "ti-github"
+link = "#"
 title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
-title = "youtube"
-icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+icon = "ti-youtube"
 link = "#"
+title = "youtube"

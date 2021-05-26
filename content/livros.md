@@ -7,5 +7,7 @@ image = ""
 tags = []
 title = "Livros"
 type = ""
+[menu.footer]
+weight = 3
 
 +++
