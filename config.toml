@@ -35,12 +35,12 @@ home = ["HTML", "RSS", "JSON"]
 author = "Centro Pineal"
 copyright = "copyright &copy; Centro Pinel 2020 | Todos Direitos Reservados | [Themefisher](https://themefisher.com)"
 description = "Centro Pineal"
-email = "demo@email.com"
+email = "contatopineal@gmail.com"
 googleAnalitycsID = "Your ID"
 home = "Home"
-location = "Brasil"
+location = "Av. Mal. Floriano Peixoto, 5763 - Hauer, Curitiba - PR"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "41 995126513"
 [params.cookies]
 enable = false
 expire_days = 2
@@ -77,21 +77,13 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/PinealCuritiba"
 title = "facebook"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/centro.pineal/"
 title = "instagram"
 [[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
 icon = "ti-youtube"
-link = "#"
+link = "https://www.youtube.com/channel/UC2BaKv9Ht_CPjUyndlGWaKQ"
 title = "youtube"
