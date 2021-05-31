@@ -6,29 +6,29 @@ summaryLength = "10"
 theme = "liva-hugo"
 title = "Centro Pineal"
 [[menu.footer]]
-URL = "contact"
-name = "Contato"
-weight = 4
+URL = "about"
+name = "Sobre"
+weight = 1
 [[menu.footer]]
 URL = "blog"
 name = "Blog"
 weight = 2
 [[menu.footer]]
+URL = "contact"
+name = "Contato"
+weight = 5
+[[menu.main]]
 URL = "about"
 name = "Sobre"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contato"
-weight = 4
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "Sobre"
-weight = 1
+URL = "contact"
+name = "Contato"
+weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
