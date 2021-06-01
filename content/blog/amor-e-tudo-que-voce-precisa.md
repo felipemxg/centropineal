@@ -11,7 +11,7 @@ tags:
 - Meditação
 - Vipassana
 - U Pandita
-type: featured
+type: post
 author: Christopher Titmuss
 
 ---
