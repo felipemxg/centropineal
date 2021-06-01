@@ -13,9 +13,9 @@ type = "featured"
 
 por Vincent Horn
 
-O Dharma pragmático é uma abordagem moderna do caminho do despertar. Retira-se dos ensinamentos e práticas testados pelo tempo da tradição budista, mas é simultaneamente infundido com uma mentalidade moderna que não tem medo de mexer com a formulação tradicional. O Dharma pragmático, em sua essência, trata de fazer a pergunta: O que funciona?
+O Dharma pragmático é uma abordagem moderna do caminho do despertar. Retira-se dos ensinamentos e práticas testados pelo tempo da tradição budista, mas é simultaneamente infundido com uma mentalidade moderna que não tem medo de mexer com um tradicional tradicional. O Dharma pragmático, em sua essência, trata de fazer a pergunta: O que funciona?
 
-Se algo não funcionar, ele é abandonado. Se funcionar, é usado. Se alguma outra coisa funcionar melhor - em certos momentos ou para certas pessoas - então vamos com isso. Dessa forma, o Pragmático Dharma é uma forma completamente prática de abordar o caminho espiritual.
+Se algo não funcionar, ele é abandonado. Se funcionar, é usado. Se alguma outra coisa funcionar melhor - em certos momentos ou para certas pessoas - então vamos com isso. Dessa forma, o Pragmático Dharma é uma forma prática de abordagem ao caminho espiritual.
 
 Dito isso, essa abordagem começa com a tradição budista como ponto de partida. O budismo tem uma das coleções mais exaustivas de teoria e prática para ajudar a promover a transformação espiritual. É baseado em milhares de anos de experimentação individual, tentativa e erro e sucesso. Muitas pessoas têm usado este sistema para treinar suas mentes, despertar seus corações e manifestar profunda sabedoria. Por isso, o utilizamos como ponto de partida, respeitando as profundas correntes de conhecimento que pairam sobre a nossa própria exploração.
 
