@@ -17,9 +17,9 @@ author: Christopher Titmuss
 ---
 #### Uma palestra editada por Christopher Titmuss no Festival Ängsbacka, Suécia, 2004. Traduzido por Felipe Marx.
 
-Você poderia pensar que agora todos nós seríamos mega-especialistas em questões de amor. No nosso dia a dia, mal podemos escapar. As intermináveis transmissões de novelas e filmes de televisão lidam com questões do coração e da complexidade das relações humanas. Pop, rock, R&B, rap e todas as outras formas de música cantam sobre o amor. Poesia, romances, peças e artes são tudo sobre amor. Amor, amor, amor...
+Você poderia pensar que agora todos nós seríamos mega-especialistas em questões de amor. No nosso dia a dia, mal podemos escapar. As transmissões de novelas intermináveis ​​e filmes de televisão lidam com as questões do coração e da complexidade das relações humanas. Pop, rock, R&B, rap e todas as outras formas de música cantam sobre o amor. Poesia, romances, peças e artes são tudo sobre amor. Amor, amor, amor ...
 
-Como seres humanos, somos infinitamente fascinados com essa emoção particular do coração. Nós colocamos uma tremenda quantidade de tempo no amor. O amor vem de todas as direções. Alguém poderia pensar que já teríamos controle sobre o amor. Deveríamos ter realmente entendido, encontrado alguma percepção e compreensão em torno dele para podermos expressar nosso amor facilmente, livre e generosamente. Não parece ser o caso.
+Como seres humanos, somos infinitamente fascinados com essa emoção particular do coração. Nós colocamos uma tremenda quantidade de tempo no amor. O amor vem de todas as crianças. Alguém poderia pensar que já teríamos controle sobre o amor. Deveríamos ter realmente entendido, encontrado alguma percepção e compreensão em torno dele para podermos expressar nosso amor facilmente, livre e generosamente. Não parece ser o caso.
 
 Bloqueamos o amor verdadeiro, inibimos, cortamos ou secamos. Experimentamos uma relutância em compartilhar amor, dar, oferecer ou falar do nosso amor. Tratamo-lo como bens de consumo: "Eu vou te dar amor com uma condição; Você me dá seu amor. Eu vou fazer uma troca com você. Você pode ter um pouco do meu amor, contanto que eu tenha alguns dos seus. Mas você não vai conseguir mais nenhum dos meus se você parar de dar o seu amor para mim.”
 
@@ -101,4 +101,4 @@ QUE TODOS OS SERES PERMITAM QUE O AMOR FLUA EM TODAS AS DIREÇÕES.
 
 QUE TODOS OS SERES VIVAM UMA VIDA LIVRE E FELIZ.
 
-_Fonte: [LOVE IS ALL YOU NEED. An edited talk by Christopher Titmuss in Ängsbacka Festival, Sweden, 2004 – Christopher Titmuss Dharma Blog (christophertitmussblog.org)](https://www.christophertitmussblog.org/love-is-all-you-need-a-edited-talk-by-christopher-titmuss-in-angsbacka-festival-sweden-2004)_
+_Fonte:_ [_LOVE IS ALL YOU NEED. An edited talk by Christopher Titmuss in Ängsbacka Festival, Sweden, 2004 – Christopher Titmuss Dharma Blog (christophertitmussblog.org)_](https://www.christophertitmussblog.org/love-is-all-you-need-a-edited-talk-by-christopher-titmuss-in-angsbacka-festival-sweden-2004)
