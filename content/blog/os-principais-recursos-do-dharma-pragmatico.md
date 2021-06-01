@@ -3,7 +3,6 @@ author = "Vincent Horn"
 categories = ["meditação"]
 date = 2021-06-01T19:36:40Z
 description = "O que é o Dharma pragmático e quais são suas visões?"
-draft = true
 image = "/images/a21929a.jpeg"
 tags = []
 title = "Os Principais Recursos do  Dharma Pragmático"
