@@ -6,7 +6,7 @@ description = "O que é o Dharma pragmático e quais são suas visões?"
 image = "/images/a21929a.jpeg"
 tags = []
 title = "Os Principais Recursos do  Dharma Pragmático"
-type = ""
+type = "featured"
 
 +++
 **Os principais recursos do**
