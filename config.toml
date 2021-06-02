@@ -33,7 +33,7 @@ weight = 5
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Centro Pineal"
-copyright = "copyright &copy; Centro Pinel 2020 | Todos Direitos Reservados | [Themefisher](https://themefisher.com)"
+copyright = "copyright &copy; Centro Pineal 2020 | Todos Direitos Reservados | [Themefisher](https://themefisher.com)"
 description = "Centro Pineal"
 email = "contatopineal@gmail.com"
 googleAnalitycsID = "Your ID"
