@@ -87,3 +87,7 @@ title = "instagram"
 icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UC2BaKv9Ht_CPjUyndlGWaKQ"
 title = "youtube"
+[[params.social]]
+icon = "ti-spotify"
+link = "https://open.spotify.com/show/6F2Crsh18y84CbF6I1r9xT"
+title = "spotify"
