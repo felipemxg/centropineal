@@ -13,10 +13,12 @@ weight = 3
 weight = 3
 
 +++
-**Livros traduzidos do movimento pragmático budista**
+## Livros traduzidos do movimento pragmático budista
 
-**Dominando os principais ensinamentos do Buda**  
-![](https://m.media-amazon.com/images/I/51smEir-otL.jpg)  
+### Dominando os principais ensinamentos do Buda
+
+[![](https://m.media-amazon.com/images/I/51smEir-otL.jpg)  
+](https://dpeb.netlify.app/)
 Autor: Daniel Ingram  
 Tradução: Felipe Marx
 
@@ -34,6 +36,6 @@ Tradução: Kaio Shimanski
 Autor: Kenneth Folk  
 Tradução: Kaio Shimanski
 
-[https://fitness-contemplativo.netlify.app/](https://dpeb.netlify.app/titulo.html "https://dpeb.netlify.app/titulo.html")  
-  
+[https://fitness-contemplativo.netlify.app/](https://dpeb.netlify.app/titulo.html "https://dpeb.netlify.app/titulo.html")
+
 _Todos os direitos reservados aos autores_
