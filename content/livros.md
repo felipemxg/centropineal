@@ -13,7 +13,7 @@ weight = 3
 weight = 3
 
 +++
-Livros traduzidos do movimento pragmático budista
+Abaixo está uma lista de livros traduzidos do movimento pragmático budista:
 
 ### Dominando os principais ensinamentos do Buda
 
