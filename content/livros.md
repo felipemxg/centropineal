@@ -14,7 +14,7 @@ weight = 3
 
 +++
 ## Livros traduzidos do movimento pragmático budista
-
+<br>
 ### Dominando os principais ensinamentos do Buda
 
 [![](https://m.media-amazon.com/images/I/51smEir-otL.jpg)  
