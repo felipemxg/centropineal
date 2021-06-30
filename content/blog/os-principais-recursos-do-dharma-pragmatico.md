@@ -9,10 +9,6 @@ title = "Os Principais Recursos do  Dharma Pragmático"
 type = "featured"
 
 +++
-**Os principais recursos do Dharma pragmático**
-
-por Vincent Horn
-
 O Dharma pragmático é uma abordagem moderna do caminho do despertar. Retira-se dos ensinamentos e práticas testados pelo tempo da tradição budista, mas é simultaneamente infundido com uma mentalidade moderna que não tem medo de mexer com um tradicional tradicional. O Dharma pragmático, em sua essência, trata de fazer a pergunta: O que funciona?
 
 Se algo não funcionar, ele é abandonado. Se funcionar, é usado. Se alguma outra coisa funcionar melhor - em certos momentos ou para certas pessoas - então vamos com isso. Dessa forma, o Pragmático Dharma é uma forma prática de abordagem ao caminho espiritual.
