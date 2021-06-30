@@ -1,6 +1,6 @@
 +++
 author = "Ajahn Amaro"
-categories = ["Artigos"]
+categories = ["Meditação"]
 date = 2021-06-10T20:06:17Z
 description = "Extraído de The Breakthrough por Ajahn Amaro, Publicações Amaravati, 2016."
 image = ""
