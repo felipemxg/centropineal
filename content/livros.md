@@ -22,7 +22,7 @@ Abaixo está uma lista de livros traduzidos do movimento pragmático budista:
 Autor: Daniel Ingram  
 Tradução: Felipe Marx
 
-#### asina do Fogo
+#### Kasina do Fogo
 [![](https://assets.lulu.com/cover_thumbs/1/9/19eegdd9-front-shortedge-384.jpg)  ](https://kasinadofogo.netlify.app/)
 Autor: Daniel Ingram  
 Tradução: Kaio Shimanski
