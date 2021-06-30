@@ -22,8 +22,6 @@ weight = 3
 Autor: Daniel Ingram  
 Tradução: Felipe Marx
 
-[https://dpeb.netlify.app/titulo.html](https://dpeb.netlify.app/titulo.html "https://dpeb.netlify.app/titulo.html")
-
 **Kasina do Fogo**  
 ![](https://assets.lulu.com/cover_thumbs/1/9/19eegdd9-front-shortedge-384.jpg)  
 Autor: Daniel Ingram  
