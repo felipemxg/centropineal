@@ -3,13 +3,12 @@
   <div class="container">
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
-      <a class="navbar-brand mobile-view" href="{{ .Site.BaseURL }}"><img class="img-fluid"
+      <a class="navbar-brand mobile-view" href="{{ .Site.BaseURL }}"><img style="width: 140px" class="img-fluid"
           src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
       <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
         <i class="ti-menu h3"></i>
       </button>
 
-      <!--
       <div class="collapse navbar-collapse text-center" id="navigation">
         <div class="desktop-view">
           <ul class="navbar-nav mr-auto">
@@ -20,9 +19,8 @@
             {{ end }}
           </ul>
         </div>
-      -->
 
-        <a class="navbar-brand mx-auto desktop-view" href="{{ .Site.BaseURL }}"><img width="120px" class="img-fluid"
+        <a class="navbar-brand mx-auto desktop-view" href="{{ .Site.BaseURL }}"><img width="140px" class="img-fluid"
             src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
 
         <ul class="navbar-nav">
