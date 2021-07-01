@@ -59,7 +59,6 @@ Que isso seja conhecido. Deixe o coração saber sua própria talidade: "É assi
 
 Podemos deixar que isso penetre totalmente em nossa consciência. Que seja completamente conhecido, provado e realizado. Então é mais fácil não ser pego pelos dez mil devires, compulsões e urgências, e opiniões e julgamentos. Sua transparência intrínseca, vazio e insubstancialidade são mais óbvios. Quanto mais clara a compreensão do não apego, da talidade, mais fácil e mais forte será para ver através das urgências, atividades, ocupações e clamor do mundo. A luz do nosso coração é mais brilhante, então ela brilha e ilumina a poeira do mundo.
 
-_  
-Extraído de The Breakthrough por Ajahn Amaro, Publicações Amaravati, 2016._
+_Extraído de The Breakthrough por Ajahn Amaro, Publicações Amaravati, 2016._
 
 _Traduzido por Felipe Marx._
