@@ -3,7 +3,6 @@ author = "Nikolai Halay"
 categories = []
 date = 2021-08-07T19:36:17Z
 description = "Lidando com sensações agradáveis, desagradáveis e neutras"
-draft = true
 image = "/images/images_9.jpg"
 tags = []
 title = "Hackeando Vedana"
