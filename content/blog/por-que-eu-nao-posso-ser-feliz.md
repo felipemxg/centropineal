@@ -5,13 +5,11 @@ date = 2021-08-27T23:45:42Z
 description = "Adaptado de “Happiness: A Guide to Developing Life’s Most Important Skill”, de Matthieu Ricard"
 image = "/images/55.jpeg"
 tags = ["Matthieu Ricard", "budismo", "meditação"]
-title = "Por Que “Eu” Não Posso Ser Feliz?"
+title = "Por Que “Eu” Não Consigo Ser Feliz?"
 type = "post"
 
 +++
 _Foto por Matthieu Ricard_
-
-_Traduzido por Felipe Marx._
 
 As quatro nobres verdades nos dizem que para sermos felizes devemos primeiro descobrir as causas de nossa infelicidade. Essa é a abordagem do renomado monge budista francês Matthieu Ricard, que afirma que a felicidade genuína só é possível depois de compreendermos o erro fundamental que é a raiz do nosso sofrimento.
 
@@ -52,7 +50,6 @@ _Sukha_ é o estado de bem-estar duradouro que se manifesta quando nos libertamo
 > Como a água presa em uma roda d'água, giramos em círculos, impotentes.  
 > Eu louvo a compaixão que abraça todos os seres.
 >
->   
 > — Chandrakirti
 
 A confusão mental é um véu que nos impede de ver a realidade com clareza e obscurece nossa compreensão da verdadeira natureza das coisas. Na prática, é também a incapacidade de identificar os comportamentos que nos permitiriam encontrar a felicidade e evitar o sofrimento. Quando olhamos para fora, solidificamos o mundo projetando nele atributos que de forma alguma são inerentes a ele. Olhando para dentro, congelamos o fluxo da consciência quando concebemos um “eu” entronizado entre um passado que não existe mais e um futuro que ainda não existe. Temos como certo que vemos as coisas como elas são e raramente questionamos essa opinião. Atribuímos espontaneamente qualidades intrínsecas a coisas e pessoas, pensando “isso é lindo, aquilo é feio”, sem perceber que nossa mente sobrepõe esses atributos ao que percebemos. Dividimos o mundo inteiro entre “desejável” e “indesejável”, atribuímos permanência a coisas efêmeras e vemos entidades independentes no que é, na verdade, uma rede de relações em constante mudança. Temos a tendência de isolar aspectos particulares de eventos, situações e pessoas e nos concentrar inteiramente nessas particularidades. É assim que acabamos rotulando os outros como “inimigos”, “bons”, “maus” etc., e nos apegando fortemente a essas atribuições. No entanto, se considerarmos a realidade com cuidado, sua complexidade se torna óbvia.
@@ -120,5 +117,7 @@ Se o ego fosse realmente nossa essência mais profunda, seria fácil entender no
 Portanto, vale a pena dedicar alguns momentos de nossa vida para deixar a mente descansar em calma interior e para compreender, por meio da análise e da experiência direta, o lugar do ego em nossas vidas. Enquanto o senso da importância do ego tiver controle sobre nosso ser, nunca conheceremos uma paz duradoura.
 
 _Adaptado de “Happiness: A Guide to Developing Life’s Most Important Skill”, de Matthieu Ricard. Reproduzido com permissão de Little, Brown and Company. © 2006 por Matthieu Ricard._
+
+_Traduzido por Felipe Marx._
 
 _Fonte:_ [_https://www.lionsroar.com/why-cant-i-be-happy/_](https://www.lionsroar.com/why-cant-i-be-happy/ "https://www.lionsroar.com/why-cant-i-be-happy/")
