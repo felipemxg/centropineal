@@ -30,6 +30,7 @@ fields:
   name: author
   label: author
 pages:
+- content/blog/como-nos-tornamos-fisgados-e-como-nos-soltamos.md
 - content/blog/hackeando-vedana.md
 - content/blog/nao-dualidade-definindo-o-indefinivel.md
 - content/blog/o-poder-do-foi.md
