@@ -3,7 +3,6 @@ author = "Pema Chödron"
 categories = []
 date = 2021-08-30T19:06:32Z
 description = "Pema Chödrön em shenpa , ou o desejo, o gancho, que desencadeia nossa tendência habitual de fechar. Ficamos presos naquele momento de aperto quando buscamos alívio. Para nos soltar, começamos reconhecendo aquele momento de inquietação e aprendemos a relaxar nesse momento."
-draft = true
 image = "/images/hook-shenpa-pema-chodron.jpg"
 tags = []
 title = "Como nos tornamos fisgados e como nos soltamos"
