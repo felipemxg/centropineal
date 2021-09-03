@@ -5,7 +5,7 @@ date = 2021-08-13T17:34:41Z
 description = "O que é não dualidade?"
 image = "/images/gentle-voice2.jpg"
 tags = []
-title = "Não-dualidade - Definindo o indefinível"
+title = "Não-dualidade – Definindo o indefinível"
 type = "post"
 
 +++
