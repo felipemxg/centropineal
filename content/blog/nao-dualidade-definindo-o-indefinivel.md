@@ -23,8 +23,8 @@ Todas as culturas em todo o mundo conhecem a não dualidade e desenvolveram cent
 
 Talvez seja verdade, como muitas filosofias não-dualistas têm insistido, que a consciência não-dual está na verdade na raiz de toda a consciência humana. Talvez a consciência não-dual _simplesmente_ esteja _lá_ , em todas as nossas experiências como um baço ou um osso da perna, para qualquer um que olhe profundamente o suficiente para descobrir.
 
-Portanto, embora seja possível fazer práticas especiais de meditação para induzir a consciência não-dual (ou talvez devêssemos dizer para revelar a consciência não-dual),e eu recomendo que você faça isso se estiver interessado, também é o caso de muitas pessoas só precisam ter sua consciência não-dual sempre existente apontada para eles para ter pelo menos um gostinho dela. Quer você chegue lá por meio da meditação ou por meio de “apontar”, no entanto, a consciência não-dual é algo que está por trás de todas as suas percepções de si mesmo, do mundo e do transcendental. Está aí para você encontrar, se quiser ir procurando.  
-  
+Portanto, embora seja possível fazer práticas especiais de meditação para induzir a consciência não-dual (ou talvez devêssemos dizer para revelar a consciência não-dual),e eu recomendo que você faça isso se estiver interessado, também é o caso de muitas pessoas só precisam ter sua consciência não-dual sempre existente apontada para eles para ter pelo menos um gostinho dela. Quer você chegue lá por meio da meditação ou por meio de “apontar”, no entanto, a consciência não-dual é algo que está por trás de todas as suas percepções de si mesmo, do mundo e do transcendental. Está aí para você encontrar, se quiser ir procurando.
+
 **Não-dualidade na religião**
 
 Existem algumas religiões, como o hinduísmo e o budismo, que têm conceitos de não dualidade no centro de seus sistemas de crenças. Outras religiões e filosofias incluem pelo menos um ramo que se preocupa com uma visão não dualista. Até as culturas indígenas e o xamanismo falam sobre essa visão do mundo.
@@ -33,10 +33,10 @@ Como a não dualidade está no cerne da experiência humana, a maioria dos grupo
 
 Em contextos hindus, a não dualidade é chamada de _advaita_ , que significa literalmente “não duas coisas” e é a fonte da palavra não dualidade em inglês. Normalmente, a não dualidade hindu envolve unidade e identidade com Deus (dess) e, portanto, é uma prática baseada na divindade.
 
-Na tradição budista, a não dualidade é chamada de não-eu ( _anatta_ ), vazio ( _shunyata_ ) ou _rigpa_ . As teorias da Natureza de Buda e Tathagatagarbha falam sobre por que existe a não dualidade ou o que ela significa, e ao contrário do Hinduísmo não é baseado na divindade (isto é, não é sobre Deus).
+Na tradição budista, a não dualidade é chamada de não-eu (_anatta_), vazio (_shunyata_) ou _rigpa_. As teorias da Natureza de Buda e Tathagatagarbha falam sobre por que existe a não dualidade ou o que ela significa, e ao contrário do Hinduísmo não é baseado na divindade (isto é, não é sobre Deus).
 
-Todas as culturas humanas em todos os lugares experimentaram e descreveram a não dualidade e a experiência não dual, mas a Índia antiga tornou-se particularmente focada nisso.  
-  
+Todas as culturas humanas em todos os lugares experimentaram e descreveram a não dualidade e a experiência não dual, mas a Índia antiga tornou-se particularmente focada nisso.
+
 **Não dualidade e despertar**
 
 Para dizer de forma simples, a não dualidade é a essência do despertar; o que também é chamado de iluminação, liberação, realização, união divina. Quando uma pessoa tem uma forte experiência não dual, ela iniciou o processo de despertar. Para a maioria das pessoas, esse processo leva uma vida inteira e está sempre se tornando mais profundo e amplo, abrangendo cada vez mais áreas de suas vidas.
@@ -57,8 +57,8 @@ Em suma, qualquer afirmação sobre a realidade última não pode ser testada po
 
 De certa forma, ter a experiência prova que é real, pelo menos para a satisfação da pessoa a quem está acontecendo. Se você tem uma experiência profundamente espiritual de unidade com todas as coisas, o que revoluciona totalmente sua vida e transforma suas interações com todos os outros, quem se importa se isso é real em algum sentido científico? Certamente é bastante real nas maneiras que importam.
 
-No entanto, há outra maneira de ver isso.  
-  
+No entanto, há outra maneira de ver isso.
+
 **Como surge a consciência não dual?**
 
 O entendimento básico da não dualidade em um contexto religioso é que ela é a visão verdadeira e real da realidade última. Porque tudo é feito de consciência, ver que tudo é um em consciência é ver a realidade última.
@@ -77,8 +77,8 @@ Portanto, você nunca experimentou o mundo diretamente de forma alguma. Você s�
 
 Pela mesma razão que você não pode provar que a não dualidade é a realidade última, você não pode provar que a descrição acima é em última instância verdadeira. No entanto, tem a vantagem de ser cientificamente comprovável. Também tem a grande vantagem de remover uma quantidade enorme de confusão, superstição e perda de tempo.
 
-No final, provavelmente não importa qual visão da não dualidade você acredita ser real (“a consciência é tudo” ou “a experiência da consciência é tudo”). O importante é entrar em contato com a consciência não-dual, porque isso é uma capacidade de mudança de vida.  
-  
+No final, provavelmente não importa qual visão da não dualidade você acredita ser real (“a consciência é tudo” ou “a experiência da consciência é tudo”). O importante é entrar em contato com a consciência não-dual, porque isso é uma capacidade de mudança de vida.
+
 **Uma experiência não dual exige esforço?**
 
 Outra grande controvérsia diz respeito ao que uma pessoa deve fazer para ter uma experiência de não dualidade. Porque do ponto de vista espiritual, a consciência não dual está subjacente a tudo e sempre está lá na base de toda a experiência, é possível afirmar que absolutamente nada precisa ser feito para experimentá-la. Já está aí e você já está experimentando. Você apenas tem que notar. Este é o modelo “sem esforço”.
@@ -91,8 +91,8 @@ Os defensores do modelo de esforço dizem que muitas vezes as pessoas que seguem
 
 Dado que essa dicotomia (ironicamente dualística) vem sendo discutida há milhares de anos sem chegar a uma conclusão que seja satisfatória para todos, podemos dizer com confiança que você deve escolher por si mesmo de que lado se sente mais atraído.
 
-Melhor ainda seria deixar de lado a necessidade de ver qualquer um como certo, verdadeiro ou o melhor, e simplesmente perceber a não dualidade no centro da aparente dicotomia.  
-  
+Melhor ainda seria deixar de lado a necessidade de ver qualquer um como certo, verdadeiro ou o melhor, e simplesmente perceber a não dualidade no centro da aparente dicotomia.
+
 **Falando sobre não dualidade**
 
 A não dualidade contém em si muitos paradoxos. Isso só é natural quando você pensa sobre isso, uma vez que um paradoxo é algo que contém opostos aparentes - e a essência da não dualidade é a união dos opostos.
@@ -107,7 +107,7 @@ O simples fato é que a linguagem é inerentemente dualística e não há como d
 
 ## Quantos tipos diferentes de não dualidade existem?
 
-Da maneira como a palavra não dualidade é geralmente usada, pode parecer que há apenas uma coisa chamada não dualidade. E, como conceito - a ideia de não dualidade - isso faz sentido. Mas, de outra forma, podemos dizer que existem muitas não dualidades diferentes. Por exemplo, poderíamos falar sobre a não dualidade de falar vs. não falar, ou a não dualidade de conhecimento vs. ignorância. Cada um desses pares não-dualistas pode ser concebido como uma não-dualidade diferente. Na verdade, no famoso [Vimalakirti Nirdesa Sutra](https://www2.kenyon.edu/Depts/Religion/Fac/Adler/Reln260/Vimalakirti.htm) ( _O Ensino de Vimalakirti_), os vários Bodhisattvas listam cerca de 30 diferentes tipos importantes de não dualidade! Em termos de prática, entretanto, provavelmente as duas não dualidades mais importantes são a não dualidade do eu vs. mundo, e a não dualidade do mundo vs. vazio (isto é, forma e vazio).
+Da maneira como a palavra não dualidade é geralmente usada, pode parecer que há apenas uma coisa chamada não dualidade. E, como conceito - a ideia de não dualidade - isso faz sentido. Mas, de outra forma, podemos dizer que existem muitas não dualidades diferentes. Por exemplo, poderíamos falar sobre a não dualidade de falar vs. não falar, ou a não dualidade de conhecimento vs. ignorância. Cada um desses pares não-dualistas pode ser concebido como uma não-dualidade diferente. Na verdade, no famoso [Vimalakirti Nirdesa Sutra](https://www2.kenyon.edu/Depts/Religion/Fac/Adler/Reln260/Vimalakirti.htm) (_O Ensino de Vimalakirti_), os vários Bodhisattvas listam cerca de 30 diferentes tipos importantes de não dualidade! Em termos de prática, entretanto, provavelmente as duas não dualidades mais importantes são a não dualidade do eu vs. mundo, e a não dualidade do mundo vs. vazio (isto é, forma e vazio).
 
 ## Não dualidade e vazio
 
@@ -117,6 +117,6 @@ Na maioria das tradições budistas, essa unidade, essa consciência, é conside
 
 ## Conclusão
 
-A experiência não dual é algo que está sempre disponível e também algo que você pode passar o resto da vida cultivando, aprofundando e integrando-se à sua experiência cotidiana. É muito útil encontrar alguém que possa apontar isso para você com confiança e clareza, uma vez que é fácil confundir várias outras experiências com a não dualidade. Assim como alguns dos memes mais famosos da internet, a experiência não dual é algo que, uma vez vista, não pode ser invisível. Você e seu relacionamento com outras pessoas e com o mundo mudaram para sempre.  
-  
+A experiência não dual é algo que está sempre disponível e também algo que você pode passar o resto da vida cultivando, aprofundando e integrando-se à sua experiência cotidiana. É muito útil encontrar alguém que possa apontar isso para você com confiança e clareza, uma vez que é fácil confundir várias outras experiências com a não dualidade. Assim como alguns dos memes mais famosos da internet, a experiência não dual é algo que, uma vez vista, não pode ser invisível. Você e seu relacionamento com outras pessoas e com o mundo mudaram para sempre.
+
 _Texto traduzido por Kaio Shimanski_
