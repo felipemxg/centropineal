@@ -9,7 +9,7 @@ title = "Por Que “Eu” Não Consigo Ser Feliz?"
 type = "post"
 
 +++
-_Foto por Matthieu Ricard_
+_Foto por Matthieu Ricard._
 
 As quatro nobres verdades nos dizem que para sermos felizes devemos primeiro descobrir as causas de nossa infelicidade. Essa é a abordagem do renomado monge budista francês Matthieu Ricard, que afirma que a felicidade genuína só é possível depois de compreendermos o erro fundamental que é a raiz do nosso sofrimento.
 
