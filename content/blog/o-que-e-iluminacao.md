@@ -3,7 +3,6 @@ author = "Ken Mcleod"
 categories = []
 date = 2021-09-22T20:23:22Z
 description = ""
-draft = true
 image = "/images/file-20180820-30599-1nt7kr2.jpg"
 tags = []
 title = "O que é iluminação?"
