@@ -5,7 +5,7 @@ date = 2021-06-01T19:36:40Z
 description = "O que é o Dharma pragmático e quais são suas visões?"
 image = "/images/a21929a.jpeg"
 tags = ["meditação"]
-title = "Os Principais Recursos do  Dharma Pragmático"
+title = "Os Principais Recursos do Dharma Pragmático"
 type = "featured"
 
 +++
