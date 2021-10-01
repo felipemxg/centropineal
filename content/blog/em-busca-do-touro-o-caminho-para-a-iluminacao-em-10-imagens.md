@@ -89,7 +89,7 @@ Não há mais questão de busca. O touro (mente) finalmente obedece ao mestre e 
 
 ##### JOSH BARTOK
 
-Tendo voltado para casa, aqui podemos descansar. Perdemos o boi, encontramos o boi – quem pode se lembrar do que era aquela busca? Rosto original? Assim que é mencionada, a flecha afunda na pedra. No entanto, neste mesmo lugar, onde fundamentalmente nada é adquirido, nós realmente o adquirimos.
+Tendo voltado para casa, aqui podemos descansar. Perdemos o touro, encontramos o touro – quem pode se lembrar do que era aquela busca? Rosto original? Assim que é mencionada, a flecha afunda na pedra. No entanto, neste mesmo lugar, onde fundamentalmente nada é adquirido, nós realmente o adquirimos.
 
 ##### CHÖGYAM TRUNGPA
 
