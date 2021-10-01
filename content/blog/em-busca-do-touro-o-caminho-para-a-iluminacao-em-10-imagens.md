@@ -49,7 +49,7 @@ Você se assusta ao perceber o touro e então, porque não há mais nenhum mist�
 
 ### 4. Pegando
 
-> ![](/images/4.png)
+![](/images/4.png)
 
 ##### JOSH BARTOK
 
