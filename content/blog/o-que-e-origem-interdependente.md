@@ -1,9 +1,8 @@
 +++
-author = ""
+author = "Francesca Fremantle"
 categories = []
 date = 2021-10-13T20:03:56Z
 description = "Origem interdependente, conforme definido por Francesca Fremantle, uma estudiosa e tradutora de obras sânscritas e tibetanas."
-draft = true
 image = "/images/1_a6b3zzpkeh-b9zc0_myrwa.jpeg"
 tags = []
 title = " O que é origem interdependente?"
