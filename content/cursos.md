@@ -15,7 +15,8 @@ weight = 4
 +++
   
   
-![](/images/the-psychedelic-experience.png)  
+![](/images/the-psychedelic-experience.png)
+
  **The Psychedelic Experience - Um Guia de Navegação de Consciência  
   
 **Como posso navegar pelos caminhos internos e externos da minha consciência?  
