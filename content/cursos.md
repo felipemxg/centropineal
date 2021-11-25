@@ -25,7 +25,7 @@ Através do estudo em cima do manual The Psychedelic Experience dos Psicólogos 
 
 O manual é baseado no conhecido "Livro Tibetano dos Mortos" que serve de guia para o fluxo de consciência do indivíduo adentrar estados elevados logo após a sua morte física e ser liberado dos conteúdos do seu script.. Nos anos 60, esses dois pioneiros do estudo terapêutico psicodélico criaram esse guia para atender e ajudar as necessidades das experiências em estados alterados de consciência.
 
-Link para o curso:  
+  
 [https://cursos.nutror.com/curso/7926df2907ea8a072c11651a582a0a9037b2ee3e](https://cursos.nutror.com/curso/7926df2907ea8a072c11651a582a0a9037b2ee3e "https://cursos.nutror.com/curso/7926df2907ea8a072c11651a582a0a9037b2ee3e")
 
 ![](/images/the-psychedelic-experience-3.png)  
