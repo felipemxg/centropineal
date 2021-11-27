@@ -25,7 +25,7 @@ Através do estudo em cima do manual The Psychedelic Experience dos Psicólogos 
 
 O manual é baseado no conhecido "Livro Tibetano dos Mortos" que serve de guia para o fluxo de consciência do indivíduo adentrar estados elevados logo após a sua morte física e ser liberado dos conteúdos do seu script.. Nos anos 60, esses dois pioneiros do estudo terapêutico psicodélico criaram esse guia para atender e ajudar as necessidades das experiências em estados alterados de consciência.
 
-[https://cursos.nutror.com/curso/7926df2907ea8a072c11651a582a0a9037b2ee3e](https://cursos.nutror.com/curso/7926df2907ea8a072c11651a582a0a9037b2ee3e "https://cursos.nutror.com/curso/7926df2907ea8a072c11651a582a0a9037b2ee3e")
+Link para o curso: [https://cursos.nutror.com/curso/7926df2907ea8a072c11651a582a0a9037b2ee3e](https://cursos.nutror.com/curso/7926df2907ea8a072c11651a582a0a9037b2ee3e "https://cursos.nutror.com/curso/7926df2907ea8a072c11651a582a0a9037b2ee3e")
 
 ![](/images/the-psychedelic-experience-3.png)  
 **Conhecendo as Sombras: Humanos, santos, loucos e psicopatas**
@@ -52,6 +52,6 @@ Link para o curso:
 
 **Kasina do Fogo**
 
-{{<youtube ZLP3Sx1_xmY>}}  
-  
+{{<youtube ZLP3Sx1_xmY>}}
+
 Kasina do Fogo é uma prática meditativa na qual você olha para a chama de uma vela (ou outra fonte de chama, como uma lâmpada ou mesmo o LED de um telefone), fecha os olhos e atenção ao que vê. É a base de estados de concentração profundos, experiências visuais fascinantes e outras experiências mágicas, e também pode servir como base para o insight e o despertar. Essa série de vídeos traz o estudo sobre o livro "The Fire Kasina", escrito por Daniel M. Ingram e também dicas valiosas de como praticar a concentração budista das Kasinas.
