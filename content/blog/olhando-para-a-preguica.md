@@ -3,6 +3,7 @@ author = "Pema Chödron"
 categories = []
 date = 2021-12-02T21:32:42Z
 description = ""
+draft = true
 image = "/images/erik-jan-leusink-104677-unsplash.jpg"
 tags = []
 title = "Olhando para a preguiça"
