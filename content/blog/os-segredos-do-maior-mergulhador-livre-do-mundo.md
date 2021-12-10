@@ -1,12 +1,12 @@
 +++
-author = ""
-categories = ["meditacao", "biohacking", "esporte", "psiconetica", "vazio"]
+author = "Daniel Riley"
+categories = ["Meditação", "biohacking", "esporte", "psiconetica", "vazio"]
 date = 2021-12-09T16:15:52Z
 description = "Com apenas um suspiro, Alexey Molchanov, o mergulhador livre mais ousado da história, está alcançando profundidades improváveis ​​- e descobrindo um novo tipo de iluminação ao conquistar um dos esportes mais selvagens do mundo."
 image = "/images/alexy-molchanov-freediver-gq-october-2021-03.jpg"
 tags = []
 title = "Os segredos do maior mergulhador livre do mundo"
-type = ""
+type = "post"
 
 +++
 Com apenas um suspiro, Alexey Molchanov, o mergulhador livre mais ousado da história, está alcançando profundidades improváveis ​​- e descobrindo um novo tipo de iluminação ao conquistar um dos esportes mais selvagens do mundo.  
