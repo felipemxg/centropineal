@@ -36,4 +36,9 @@ Tradução: Kaio Shimanski
 Autor: Kenneth Folk  
 Tradução: Kaio Shimanski
 
-### Psiconética: um conjunto de ferramentas de nerd para trabalhar com a mente e a percepção
+### Psiconética: um conjunto de ferramentas de nerd para trabalhar com a mente e a percepção  
+  
+![](/images/the-psychedelic-experience.png)  
+Autor: Igor Kusakov  
+Tradução: Kaio Shimanski  
+[https://contatopineal.gitbook.io/psiconetica/](https://contatopineal.gitbook.io/psiconetica/ "https://contatopineal.gitbook.io/psiconetica/")
