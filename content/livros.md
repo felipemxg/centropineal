@@ -3,6 +3,7 @@ author = ""
 categories = []
 date = 2021-05-26T12:47:14Z
 description = ""
+draft = true
 image = ""
 tags = []
 title = "Livros"
@@ -38,7 +39,7 @@ Tradução: Kaio Shimanski
 
 ### Psiconética: um conjunto de ferramentas de nerd para trabalhar com a mente e a percepção  
   
-![](/images/the-psychedelic-experience.png)  
+![](/images/15827903959_de364b2c73_b.jpg)  
 Autor: Igor Kusakov  
 Tradução: Kaio Shimanski  
 [https://contatopineal.gitbook.io/psiconetica/](https://contatopineal.gitbook.io/psiconetica/ "https://contatopineal.gitbook.io/psiconetica/")
