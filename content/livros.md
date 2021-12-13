@@ -22,19 +22,18 @@ Abaixo está uma lista de livros traduzidos do movimento pragmático budista:
 Autor: Daniel Ingram  
 Tradução: Felipe Marx
 
-
 #### Kasina do Fogo
+
 [![](https://assets.lulu.com/cover_thumbs/1/9/19eegdd9-front-shortedge-384.jpg)  ](https://kasinadofogo.netlify.app/)
 
 Autor: Daniel Ingram  
 Tradução: Kaio Shimanski
 
-
 #### Fitness Contemplativo
+
 [![](/images/fitness-contemplativo.png)  ](https://fitness-contemplativo.netlify.app/)
 
 Autor: Kenneth Folk  
 Tradução: Kaio Shimanski
 
-
-_Todos os direitos reservados aos autores_
+### Psiconética: um conjunto de ferramentas de nerd para trabalhar com a mente e a percepção
