@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = 2021-05-26T12:47:14Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Livros"
