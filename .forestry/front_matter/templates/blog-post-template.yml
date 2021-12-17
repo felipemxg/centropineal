@@ -30,6 +30,7 @@ fields:
   name: author
   label: author
 pages:
+- content/blog/24-previsoes-para-o-ano-3000-por-david-pearce.md
 - content/blog/como-nos-tornamos-fisgados-e-como-nos-soltamos.md
 - content/blog/como-se-sentir-confortavel-com-todo-mundo.md
 - content/blog/despertar-e-um-processo-destrutivo.md
