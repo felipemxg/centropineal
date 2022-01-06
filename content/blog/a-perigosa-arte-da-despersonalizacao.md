@@ -3,7 +3,6 @@ author = "Alex Tzelnic"
 categories = ["não-eu", "meditacao"]
 date = 2022-01-06T23:34:35Z
 description = ""
-draft = true
 image = "/images/meditation-depersonalization-1024x676.jpg"
 tags = [""]
 title = "A perigosa arte da despersonalização "
