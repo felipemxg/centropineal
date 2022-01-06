@@ -1,6 +1,6 @@
 +++
 author = "Alex Tzelnic"
-categories = ["não-eu", "meditacao"]
+categories = []
 date = 2022-01-06T23:34:35Z
 description = ""
 image = "/images/meditation-depersonalization-1024x676.jpg"
