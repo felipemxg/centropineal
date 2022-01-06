@@ -3,6 +3,7 @@ author = ""
 categories = []
 date = 2021-12-17T15:42:06Z
 description = ""
+draft = true
 image = "/images/tmp-name-2-16290-1543267633-1_dblbig.jpg"
 tags = ["consciencia", "futuro", "transhumanismo"]
 title = "24 previsões para o ano 3000 por David Pearce"
