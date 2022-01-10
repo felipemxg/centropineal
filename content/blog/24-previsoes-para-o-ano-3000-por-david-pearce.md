@@ -1,16 +1,16 @@
 +++
-author = ""
+author = "David Pearce"
 categories = []
 date = 2021-12-17T15:42:06Z
 description = ""
 image = "/images/tmp-name-2-16290-1543267633-1_dblbig.jpg"
 tags = ["consciencia", "futuro", "transhumanismo"]
 title = "24 previsões para o ano 3000 por David Pearce"
-type = ""
+type = "post"
 
 +++
-#### **24 previsões para o ano 3000 por David Pearce  
-**  
+#### 24 previsões para o ano 3000 por David Pearce
+
 Em resposta à pergunta do Quora [Olhando 1000 anos no futuro e assumindo que a raça humana está indo bem, como será a sociedade? ](https://www.quora.com/Looking-1000-years-into-the-future-and-assuming-the-human-race-is-doing-well-what-will-society-be-like), [David Pearce](https://www.hedweb.com/confile.htm) escreveu:
 
 ***
@@ -77,8 +77,8 @@ Os seres sencientes ajudam em vez de prejudicar uns aos outros. Os sucessores da
 [Projetando geneticamente uma biosfera feliz](https://www.gene-drives.com/)  
 [Nosso futuro biotecnológico](http://www.nybooks.com/articles/2007/07/19/our-biotech-future/)
 
-**10) O formalismo do TOE é conhecido.  
-**( _detalhes omitidos_ : _o Quora suporta LaTeX?)_
+\**10) O formalismo do TOE é conhecido.  
+\**( _detalhes omitidos_ : _o Quora suporta LaTeX?)_
 
 Dirac reconheceu o princípio da superposição como _o_ princípio fundamental da mecânica quântica. Os monistas da função de onda acreditam que o princípio da superposição é a chave da própria realidade. No entanto - exceto pela descoberta de uma pedra de Roseta cósmica que marcou época - as implicações de algumas das soluções mais interessantes da equação principal para a experiência subjetiva ainda são desconhecidas.  
 [Teoria de tudo - Wikipedia Teoria](https://en.wikipedia.org/wiki/Theory_of_everything)  
@@ -154,8 +154,8 @@ Ignorância invencível? Possivelmente.
 Difícil de prever. Mas a neurociência pode logo identificar as assinaturas moleculares da experiência espiritual, refiná-las e amplificar maciçamente seus substratos moleculares. Talvez alguns do quarto milênio desfrutem de êxtases espirituais ao longo da vida, além das epifanias místicas dos epilépticos do lobo temporal. Os racionalistas seculares não sabem o que estamos perdendo.  
 [https://www.newscientist.com/article/mg22129531-000-ecstatic-epilepsy-how-seizures-can-be-bliss/](https://www.newscientist.com/article/mg22129531-000-ecstatic-epilepsy-how-seizures-can-be-bliss/ "https://www.newscientist.com/article/mg22129531-000-ecstatic-epilepsy-how-seizures-can-be-bliss/")
 
-**21) A revolução reprodutiva.  
-**A reprodução é incomum em uma sociedade pós-envelhecimento. A maioria dos transumanos se originou como “bebês projetados” extra-uterinos. A experimentação genética imprudente da reprodução sexual há muito parecia irresponsável. Os velhos hábitos ainda eram difíceis de morrer. Por volta do ano 3000, o jogo de dados genético da vida darwiniana foi finalmente substituído pela senciência projetada com precisão. Os primeiros críticos da "eugenia" e de um "Admirável Mundo Novo" descobriram por experiência que uma civilização "triplo S" de superfelicidade, superlongevidade e superinteligência não é tão ruim quanto supunham.  
+\**21) A revolução reprodutiva.  
+\**A reprodução é incomum em uma sociedade pós-envelhecimento. A maioria dos transumanos se originou como “bebês projetados” extra-uterinos. A experimentação genética imprudente da reprodução sexual há muito parecia irresponsável. Os velhos hábitos ainda eram difíceis de morrer. Por volta do ano 3000, o jogo de dados genético da vida darwiniana foi finalmente substituído pela senciência projetada com precisão. Os primeiros críticos da "eugenia" e de um "Admirável Mundo Novo" descobriram por experiência que uma civilização "triplo S" de superfelicidade, superlongevidade e superinteligência não é tão ruim quanto supunham.  
 [https://www.reproductive-revolution.com/](https://www.reproductive-revolution.com/ "https://www.reproductive-revolution.com/")  
 [https://www.huxley.net/](https://www.huxley.net/ "https://www.huxley.net/")
 
@@ -183,8 +183,7 @@ Do jeito que está, sim, ( **24** ) é quase vazio. No entanto, compare como os 
 OK, vinte e quatro previsões! Os profetas bem-sucedidos tendem a localizar a salvação ou a desgraça dentro do tempo de vida confiável de seu público-alvo. O questionador pergunta sobre a vida no ano 3000 em vez de, digamos, um Kurzweilian 2045. Na minha opinião, todos que lêem este texto envelhecerão e morrerão antes que as previsões desta resposta sejam realizadas ou confundidas - com uma possível complicação.
 
 A criónica opt-out e a criotanásia opt-in são viáveis ​​muito antes da conquista do envelhecimento. Visitar o vovô na instalação de criônica pode transformar a morte em um acontecimento na vida. Não estou convencido de que a superinteligência pós-humana reconhecerá que o malware darwiniano deva ser revivido em qualquer forma ou formato. No entanto, se você quiser acordar uma manhã no paraíso pós-humano - e eu vejo o apelo - então existem opções:  
-[http://www.alcor.org/](http://www.alcor.org/ "http://www.alcor.org/")  
-  
-  
+[http://www.alcor.org/](http://www.alcor.org/ "http://www.alcor.org/")
+
 Traduzido do artigo:  
 [https://qualiacomputing.com/2017/08/05/24-predictions-for-the-year-3000-by-david-pearce/](https://qualiacomputing.com/2017/08/05/24-predictions-for-the-year-3000-by-david-pearce/ "https://qualiacomputing.com/2017/08/05/24-predictions-for-the-year-3000-by-david-pearce/")
