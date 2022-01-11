@@ -1,12 +1,12 @@
 +++
 author = "Alex Tzelnic"
-categories = []
+categories = ["emergencia espiritual", "vazio", "meditacao"]
 date = 2022-01-06T23:34:35Z
 description = ""
 image = "/images/meditation-depersonalization-1024x676.jpg"
-tags = [""]
+tags = ["emergencia espiritual", "meditacao", ""]
 title = "A perigosa arte da despersonalização "
-type = ""
+type = "post"
 
 +++
 Em abril de 2012, uma dançarina chamada Sharon Stern cometeu suicídio. Stern estava profundamente comprometido com a forma de dança japonesa de influência budista Butoh, na qual o domínio envolve a entrega de partes do eu. Antes do suicídio, Stern apresentava instabilidade mental, incluindo sinais preocupantes de despersonalização, uma condição marcada por uma sensação de distanciamento do corpo e dos pensamentos. À medida que a devoção de Stern ao Butoh crescia, também crescia sua incapacidade de se identificar como um indivíduo com uma história, personalidade ou futuro. Ela começou a escrever e-mails na terceira pessoa e, [como Rachel Aviv detalhou no _The New Yorker_](https://www.newyorker.com/magazine/2020/04/06/the-unravelling-of-a-dancer) , em um dos últimos e-mails de Stern para seu professor, ela perguntou: “Então surge a pergunta o que acontece APÓS a desconstrução de seu corpo / mente / ego? ”
@@ -17,7 +17,7 @@ Um recente renascimento da pesquisa científica sobre psicodélicos, que foi ban
 
 Pode ser impossível isolar os fatores que determinam o resultado final - a perda profunda ou profunda - mas a pesquisa, assim como a história, aponta para dois atores principais e interdependentes: cenário e cenário. A consideração cuidadosa do cenário e do cenário na pesquisa sobre psicodélicos, e a raridade resultante de viagens ruins, sugere que considerações semelhantes poderiam proteger contra experiências negativas com práticas contemplativas. De fato, na prática budista, onde a desconstrução do ego é uma meta, existe uma estrutura na qual a intenção adequada pode ser cultivada, a orientação adequada está presente e a contextualização e o apoio estão disponíveis.
 
-**Este é o seu cérebro em si mesmo**
+**Este é o seu cérebro em**
 
 Em algum ponto da história humana, tornou-se vantajoso considerar-se em relação a tudo o mais. Em [_Buddha’s Brain_](https://www.goodreads.com/book/show/6796675-buddha-s-brain?ac=1&from_search=true&qid=gJZCzzIYaX&rank=1) , Rick Hanson e Richard Mendius explicam como a capacidade de conceber um self "foi costurada no DNA humano por vantagens reprodutivas que se acumulam lentamente ao longo de cem mil gerações." Um dos mecanismos primários do self é a capacidade de simular experiência internamente, seja refletindo sobre experiências passadas para promover o comportamento bem-sucedido ou antecipando eventos futuros para escolher a abordagem com mais probabilidade de proteger a si mesmo.
 
@@ -99,5 +99,4 @@ Voltando ao caso de Sharon Stern, a descida da dançarina à autodestruição to
 
 O conceito de um self tem permitido que a espécie humana floresça em uma extensão sem rival na história da vida neste planeta. Ruminando o passado e traçando estratégias para o futuro, inúmeras gerações de pessoas foram capazes de orquestrar o crescimento em uma escala e magnitude que tem implicações dramáticas para toda a vida. Ao aprender como apoiar e integrar adequadamente as experiências de autodestruição, talvez os humanos possam começar a agir sobre essas implicações e essas incontáveis ​​outras vidas de uma forma mais compassiva, levando ao senso de unidade para o qual as experiências místicas apontam de forma tão tentadora.
 
-  
 Traduzido do artigo original: [https://tricycle.org/trikedaily/depersonalization/](https://tricycle.org/trikedaily/depersonalization/ "https://tricycle.org/trikedaily/depersonalization/")
