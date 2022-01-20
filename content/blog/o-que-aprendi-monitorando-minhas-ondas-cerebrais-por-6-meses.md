@@ -3,7 +3,6 @@ author = "Holly Erin Copeland"
 categories = ["tecnologia"]
 date = 2022-01-20T13:30:55Z
 description = "A busca de uma biohacker para mudar seu cérebro através da meditação"
-draft = true
 image = "/images/1_bbwwkytsnjwdw4ct-dyzvw.jpeg"
 tags = ["biohacking", "meditacao", "tecnologia"]
 title = "O que aprendi monitorando minhas ondas cerebrais por 6 meses"
