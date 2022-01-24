@@ -1,12 +1,12 @@
 +++
-author = ""
-categories = []
+author = "Maria Popova"
+categories = ["meditacao"]
 date = 2022-01-24T21:20:47Z
 description = "“Para viver, devemos morrer a cada instante. Devemos perecer de novo e de novo nas tempestades que tornam a vida possível.”"
 image = "/images/thichnhathanh_library.jpg"
-tags = []
+tags = ["anatta", "self", "meditacao"]
 title = "Como o grande mestre zen e ativista da paz Thich Nhat Hanh se encontrou e se perdeu em uma epifania na biblioteca"
-type = ""
+type = "post"
 
 +++
 “O eu, o lugar onde vivemos, é um lugar de ilusão. A bondade está conectada com a tentativa de ver o não-eu… de perfurar o véu da consciência egoísta e se juntar ao mundo como ele realmente é”, escreveu Iris Murdoch em uma obra- [prima de 1970 .](https://www.themarginalian.org/2019/10/21/iris-murdoch-unselfing/)— uma ideia radical em sua época e em sua cultura, contrária às noções de individualismo e auto-realização tão fundamentais para a filosofia ocidental. Hoje, práticas como a meditação metta e a atenção plena – práticas ancoradas na dissolução do eu, que continua sendo a mais desafiadora das tarefas humanas, mesmo para os meditadores mais dedicados entre nós, oferecendo apenas vislumbres transitórios da realidade como ela realmente é – inundam o mainstream global , extraída das águas subterrâneas da filosofia oriental antiga e transportada através do abismo cultural por um punhado de pioneiros nas décadas de 1960 e 1970.  
