@@ -1,0 +1,57 @@
++++
+author = ""
+categories = []
+date = 2022-01-24T21:20:47Z
+description = "“Para viver, devemos morrer a cada instante. Devemos perecer de novo e de novo nas tempestades que tornam a vida possível.”"
+image = "/images/thichnhathanh_library.jpg"
+tags = []
+title = "Como o grande mestre zen e ativista da paz Thich Nhat Hanh se encontrou e se perdeu em uma epifania na biblioteca"
+type = ""
+
++++
+“O eu, o lugar onde vivemos, é um lugar de ilusão. A bondade está conectada com a tentativa de ver o não-eu… de perfurar o véu da consciência egoísta e se juntar ao mundo como ele realmente é”, escreveu Iris Murdoch em uma obra- [prima de 1970 .](https://www.themarginalian.org/2019/10/21/iris-murdoch-unselfing/)— uma ideia radical em sua época e em sua cultura, contrária às noções de individualismo e auto-realização tão fundamentais para a filosofia ocidental. Hoje, práticas como a meditação metta e a atenção plena – práticas ancoradas na dissolução do eu, que continua sendo a mais desafiadora das tarefas humanas, mesmo para os meditadores mais dedicados entre nós, oferecendo apenas vislumbres transitórios da realidade como ela realmente é – inundam o mainstream global , extraída das águas subterrâneas da filosofia oriental antiga e transportada através do abismo cultural por um punhado de pioneiros nas décadas de 1960 e 1970.  
+  
+![](/images/thichnhathanh_plumvillage.jpg)
+
+O principal deles foi o grande Mestre Zen e ativista da paz **Thich Nhat Hanh** (11 de outubro de 1926 a 22 de janeiro de 2022), que chegou à América em 1961 para estudar a história do budismo vietnamita no Seminário Teológico de Princeton, trazendo de volta o que aprendeu dois anos ao seu Vietnã natal e dedicando-se ao projeto de paz, pelo qual o governo sul-vietnamita o puniu com um exílio de quatro décadas. Meia vida depois – tendo sido indicado por Martin Luther King Jr. para o Prêmio Nobel da Paz, tendo fundado a fundação do otimismo civilizacional que é [Plum Village](https://plumvillage.org/about/thich-nhat-hanh/biography) na França, tendo sobrevivido a um derrame que o deixou incapaz de falar ou andar – ele foi finalmente autorizado a retornar à sua pátria, deixando o Ocidente que o celebrou como o pai da atenção plena.  
+  
+A revista que Thich Nhat Hanh começou a manter após sua chegada à América quando jovem foi publicada meio século depois como [**_Fragrant Palm Leaves: Journals 1962–1966_**](http://www.amazon.com/exec/obidos/ASIN/1946764728/braipick-20)( [_biblioteca pública_](https://www.worldcat.org/title/freediving-renegade-science-and-what-the-ocean-tells-us-about-ourselves/oclc/894759064&referer=brief_results) ). Estes continuam sendo seus escritos mais íntimos - um registro raro de seu altruísmo, que o tornou ele mesmo: o monge que trouxe a atenção plena ao mundo.
+
+Em uma extraordinária anotação de diário escrita dez dias antes de seu trigésimo sexto aniversário – a idade em que Walt Whitman abriu suas _Leaves of Grass_ com a declamação “Num Self eu canto, uma simples pessoa separada” – Thich Nhat Hanh contempla a ilusória e interdependente natureza do eu enquanto ele enfrenta suas próprias multidões, cravadas no conflito interno universal que vem com ser uma pessoa no mundo, um cosmos privado em uma esfera pública:
+
+> É engraçado o quanto nosso entorno influencia nossas emoções. Nossas alegrias e tristezas, gostos e desgostos são tão coloridos pelo nosso ambiente que muitas vezes deixamos o ambiente ditar nosso curso. Seguimos com sentimentos “públicos” até não sabermos mais nossas verdadeiras aspirações. Tornamo-nos um estranho para nós mesmos, totalmente moldados pela sociedade... Às vezes me sinto preso entre dois eus opostos – o “falso eu” imposto pela sociedade e o que eu chamaria de meu “verdadeiro eu”. Quantas vezes confundimos os dois e assumimos que o molde da sociedade é o nosso verdadeiro eu. Batalhas entre nós dois raramente resultam em uma reconciliação pacífica. Nossa mente se torna um campo de batalha no qual os Cinco Agregados – a forma, os sentimentos, as percepções, as formações mentais e a consciência de nosso ser – estão espalhados como escombros em um furacão. Árvores tombam, galhos se quebram, casas quebram.  
+>   
+> ![](/images/hollandhouse_blitz_library.jpg)
+
+Dois séculos depois de Coleridge considerar [a tempestade como uma lente sobre a alma](https://www.themarginalian.org/2020/07/08/coleridge-storm-letter/) , e um século depois de Van Gogh exaltar [a força esclarecedora das tempestades na natureza e na natureza humana](https://www.themarginalian.org/2018/08/22/van-gogh-sorrow/) , Thich Nhat Hanh acrescenta:
+
+> Estes são os nossos momentos mais solitários. No entanto, cada vez que sobrevivemos a uma tempestade dessas, crescemos um pouco. Sem tempestades como essas, eu não seria quem sou hoje. Mas raramente ouço uma tempestade dessas chegando até que ela já esteja sobre mim. Parece aparecer sem aviso, como se pisasse silenciosamente em chinelos de seda. Eu sei que deve estar fermentando há muito tempo, fervendo em meus próprios pensamentos e formações mentais, mas quando um furacão tão frenético atinge, nada de fora pode ajudar. Estou espancado e dilacerado, e também estou salvo.
+
+[  
+](https://www.themarginalian.org/2016/05/17/the-storm-akiko-miyakoshi/)Em consonância com a visão de Alain de Botton sobre [a importância dos colapsos](https://www.themarginalian.org/2021/10/13/alain-de-botton-normalcy-breakdown) , ele relembra o que a tempestade mais formativa de sua vida lhe ensinou:
+
+> Eu vi que a entidade que eu tinha tomado como “eu” era realmente uma invenção. Minha verdadeira natureza, percebi, era muito mais real, mais feia e mais bonita do que eu poderia imaginar.  
+>   
+> ![](/images/thestorm6.jpg)
+
+Em uma lembrança que faz minha própria alma bibliófila estremecer com a ternura do reconhecimento, ele prossegue detalhando o que ocasionou a tempestade de seu altruísmo – sua versão da [epifania no jardim](https://www.themarginalian.org/2015/09/09/virginia-woolf-cotton-wool-moments-of-being/) que revelou a Virginia Woolf o propósito de sua vida:
+
+> A sensação começou pouco antes das onze horas da noite de primeiro de outubro. Eu estava navegando no décimo primeiro andar da Biblioteca Butler. Eu sabia que a biblioteca estava prestes a fechar e vi um livro que dizia respeito à área de minha pesquisa. Deslizei-o para fora da prateleira e segurei-o em minhas duas mãos. Era grande e pesado. Li que havia sido publicado em 1892 e doado à Biblioteca Columbia no mesmo ano. Na contracapa havia um pedaço de papel que registrava os nomes dos mutuários e as datas em que o retiraram da biblioteca. A primeira vez que foi emprestado foi em 1915, a segunda foi em 1932. Eu seria o terceiro. Você pode imaginar? Eu era apenas o terceiro tomador de empréstimo, em 1º de outubro de 1962. Por setenta anos, apenas duas outras pessoas ficaram no mesmo lugar em que eu estava, tiraram o livro da prateleira e resolveram dar uma olhada. Fiquei superado com o desejo de conhecer essas duas pessoas. Não sei porque, mas eu queria abraçá-los. Mas eles desapareceram, e eu também desaparecerei em breve. Dois pontos na mesma reta nunca se encontrarão. Consegui encontrar duas pessoas no espaço, mas não no tempo.  
+>   
+> De repente, todas as linhas se dissolveram em um campo ilimitado de consciência, sem espaço ou tempo ou eu:
+>
+> > Sinto como se tivesse vivido muito tempo e visto tanto da vida. Tenho quase trinta e seis anos, o que não é jovem. Mas naquela noite, em meio às estantes da Biblioteca Butler, vi que não sou nem jovem nem velho, existente nem inexistente. Meus amigos sabem que posso ser tão brincalhão e travesso quanto uma criança. Adoro brincar e entrar plenamente no jogo da vida. Eu também sei o que é ficar com raiva. E conheço o prazer de ser elogiado. Muitas vezes estou à beira das lágrimas ou do riso. Mas por trás de todas essas emoções, o que mais existe? Como posso tocá-lo? Se não há nada, por que eu teria tanta certeza de que há?
+> >
+> > Ainda segurando o livro, senti um vislumbre de insight. Compreendi que estou vazio de ideais, esperanças, pontos de vista ou lealdades. Não tenho promessas a cumprir com os outros. Naquele momento, o senso de mim mesmo como uma entidade entre outras entidades desapareceu. Eu sabia que esse insight não surgiu de desapontamento, desespero, medo, desejo ou ignorância. Um véu silenciosamente levantado sem esforço. Isso é tudo. Se você me bater, me apedrejar ou até mesmo atirar em mim, tudo o que é considerado “eu” se desintegrará. Então, o que está realmente lá se revelará – tênue como a fumaça, elusivo como o vazio, e ainda assim nem fumaça nem vazio, feio, nem feio, bonito, mas não bonito. É como uma sombra em uma tela.
+> >
+> >   
+> > Mas desse sentimento de perder o eu, dessa total demolição da identidade, surgiu um profundo sentimento de ter chegado a si mesmo, a uma unidade elementar de seu ser com todo o ser:
+> >
+> > > Naquele momento, tive a profunda sensação de que havia _voltado_. Minhas roupas, meus sapatos, até a essência do meu ser havia desaparecido, e eu estava despreocupado como um gafanhoto parando em uma folha de grama... Quando um gafanhoto se senta em uma folha de grama, ele não pensa em separação, resistência ou culpa … O gafanhoto verde mistura-se completamente com a relva verde… Não recua nem acena. Não sabe nada de filosofia ou ideais. É simplesmente grato por sua vida comum. Corra pelo prado, meu caro amigo, e cumprimente a criança de ontem. Quando você não puder me ver, você mesmo retornará. Mesmo quando seu coração está cheio de desespero, você encontrará o mesmo gafanhoto na mesma folha de grama... Alguns dilemas da vida não podem ser resolvidos pelo estudo ou pensamento racional. Apenas vivemos com eles, lutamos com eles e nos tornamos um com eles... Para viver, devemos morrer a cada instante. Devemos perecer de novo e de novo nas tempestades que tornam a vida possível.  
+> > >   
+> > > ![](/images/thichnhathanh_sunflower_1980s.jpg)  
+> > >   
+> > > Complemente este fragmento de [**_Fragrant Palm Leaves_**](http://www.amazon.com/exec/obidos/ASIN/1946764728/braipick-20) - uma leitura soberba em sua totalidade - com o médico poético Lewis Thomas, escrevendo na mesma época, sobre [como uma lesma do mar e uma água-viva iluminam a fronteira permeável do eu](https://www.themarginalian.org/2018/10/25/lewis-thomas-the-medusa-and-the-snail-self/) , depois revisite Thich Nhat Hanh em [a arte de ouvir profundamente](https://www.themarginalian.org/2021/10/10/thich-nhat-hanh-listening-love/) , [os quatro mantras budistas de transformar medo em amor](https://www.themarginalian.org/2020/12/01/thich-nhat-hanh-fear-love/) e seus ensinamentos transformadores atemporais sobre [o amor como a arte de “interser”.](https://www.themarginalian.org/2015/03/31/how-to-love-thich-nhat-hanh/)  
+> > >   
+> > >   
+> > > Traduzido do artigo: [https://www.themarginalian.org/2022/01/23/thich-nhat-hanh-fragrant-palm-leaves/?fbclid=IwAR3_5Z_hRfmH02L84EIiGoMIBvanP8cmDY5ln9qTcSsEplJDKqXPq](https://www.themarginalian.org/2022/01/23/thich-nhat-hanh-fragrant-palm-leaves/?fbclid=IwAR3_5Z_hRfmH02L84EIiGoMIBvanP8cmDY5ln9qTcSsEplJDKqXPq "https://www.themarginalian.org/2022/01/23/thich-nhat-hanh-fragrant-palm-leaves/?fbclid=IwAR3_5Z_hRfmH02L84EIiGoMIBvanP8cmDY5ln9qTcSsEplJDKqXPq")
