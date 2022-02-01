@@ -73,9 +73,9 @@ Aymerich apareceu no meu campo de visão. "Toca aqui!", ela disse. Nos cumprimen
 
 No século XVIII, o filósofo George Berkeley argumentou que a realidade estava toda em nossas mentes. Samuel Johnson não tinha paciência para essa ideia, ele declarou: “Eu refuto assim!” e chutou uma pedra. Dois séculos depois, o poeta Richard Wilbur escreveu uma réplica:
 
-		"Chute a rocha, Sam Johnson, quebre seus ossos:
+"Chute a rocha, Sam Johnson, quebre seus ossos:
 
-		Mas turvo, turvo é a matéria das pedras."
+Mas turvo, turvo é a matéria das pedras."
 
 "Não é real, mas não importa", disse Slater, me observando. “De certa forma, é uma experiência real”.
 
@@ -87,7 +87,7 @@ Os instrumentos em um cockpit de avião informam sobre inclinação, guinada, ve
 
 Dois fatos sobre o cockpit são de especial importância. A primeira é que, embora o cockpit controle o avião, ele não é um avião. É apenas uma simulação — um modelo — de uma máquina maior, mais complexa e muito diferente. A implicação desse fato é que as histórias que contamos sobre o que acontece na cabine – “eu puxei o manche” ou “Toquei minha jaqueta” – são muito diferentes da realidade do que está acontecendo com o sistema como um todo. O segundo fato, mais difícil de entender, é que não podemos ver o cockpit. Mesmo quando consultamos seus modelos dos mundos externo e interno, não nos sentimos fazendo isso. Experimentamos a nós mesmos como simplesmente existindo. “Você não pode reconhecer seu automodelo como um modelo”, escreve Metzinger, em “Being No One”. “É transparente: você olha através dele. Você não vê. Mas você vê com isso.” Nossos modelos mentais da realidade são como fones de ouvido de RV que não sabemos que estamos usando. Por meio deles, experimentamos nossa própria vida interior e temos sensações internas que parecem sólidas como pedra. Mas na verdade:
 
-	Ninguém nunca foi ou teve um eu. Tudo o que já existiu foram automodelos conscientes que não podiam ser reconhecidos como modelos. . . . Você é um tal sistema agora. . . . Ao ler essas frases, você constantemente se confunde com o conteúdo do automodelo ativado pelo seu cérebro.
+Ninguém nunca foi ou teve um eu. Tudo o que já existiu foram automodelos conscientes que não podiam ser reconhecidos como modelos. . . . Você é um tal sistema agora. . . . Ao ler essas frases, você constantemente se confunde com o conteúdo do automodelo ativado pelo seu cérebro.
 
 Quando encontrei pela primeira vez as ideias de “Ser Ninguém”, muitos anos atrás, pensei que as entendia. Eu tinha lido sobre amputados que sentem a presença de “membros fantasmas”, e fazia sentido pensar que isso era porque seus modelos corporais estavam fora de sincronia com a realidade. Aceitei que o mesmo poderia ser verdade para nossos estados internos – assim como uma pessoa sem um braço pode experimentar sua presença, uma pessoa sem livre-arbítrio pode experimentar usá-lo porque seu “automodelo” inclui a ideia de fazer escolhas. E, no entanto, foi só quando visitei o laboratório de Slater que toda a força dessas ideias me atingiu. Enquanto encarnado como um robô, senti um toque fantasma – um produto de aparência real do meu modelo corporal – e isso me enervou. Mas eu não estava sentindo toques fantasmas o tempo todo? Sempre que experimentei uma emoção, tive um pensamento ou fiz uma escolha, eu não estava interagindo com uma ficção, uma história que meu automodelo estava me contando sobre um processo infinitamente estranho, talvez impessoal, que se desenrolava em meu cérebro? Meu mundo interior também era virtual.
 
@@ -167,4 +167,4 @@ Já estava ficando tarde e saímos para passear no parque. Enquanto caminhávamo
 
 O parque estava calmo e bonito. Tinha chovido na noite anterior e os caminhos de areia estavam molhados. O sol estava baixo e nossos passos estalavam na areia. Um menino andava de bicicleta por uma poça. Ouvimos a água batendo. Eu me sentia cansado e animado — cheio de ideias. O céu estava azul. A grama estava verde.
 
-Traduzido do artigo: [https://www.newyorker.com/magazine/2018/04/02/are-we-already-living-in-virtual-reality](https://www.newyorker.com/magazine/2018/04/02/are-we-already-living-in-virtual-reality "https://www.newyorker.com/magazine/2018/04/02/are-we-already-living-in-virtual-reality") por Guilherme Moreno
+Traduzido do artigo original:[https://www.newyorker.com/magazine/2018/04/02/are-we-already-living-in-virtual-reality](https://www.newyorker.com/magazine/2018/04/02/are-we-already-living-in-virtual-reality "https://www.newyorker.com/magazine/2018/04/02/are-we-already-living-in-virtual-reality") por Guilherme Moreno
