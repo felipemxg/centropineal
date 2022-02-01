@@ -3,7 +3,6 @@ author = "Joshua Rothman"
 categories = ["Self", "Meditação ", "tecnologia"]
 date = 2022-02-01T20:24:56Z
 description = "Uma nova tecnologia – incorporação virtual – desafia nossa compreensão de quem e o que somos."
-draft = true
 image = "/images/screenshot_20220201-172257_chrome.jpg"
 tags = ["Self", "Tecnologia", "Meditação "]
 title = "Já estamos vivendo em realidade virtual?"
