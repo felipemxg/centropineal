@@ -1,13 +1,12 @@
 +++
-author = ""
-categories = []
+author = "algekalipso"
+categories = ["personalidade", "meditacao"]
 date = 2022-02-14T14:32:10Z
 description = ""
-draft = true
 image = "/images/gettyimages-898703636.jpg"
-tags = []
+tags = ["qualia", "meditacao", "self"]
 title = "Qualia Ontológica: O Futuro da Identidade Pessoal"
-type = ""
+type = "post"
 
 +++
 **Identidade pessoal**
@@ -22,7 +21,9 @@ A princípio, responder à primeira pergunta lhe dará uma resposta direta à se
 
 Eu argumentaria, no entanto, que um indivíduo racional “egoísta” que deseja sobreviver também deve levar a sério a questão da identidade pessoal: mesmo que não o envolva em um nível emocional, ainda lhe dá _o que realmente importa_.
 
-Pior ainda: embora a maioria dos jovens acredite, em nível intelectual, que são realmente eles que experienciarão a vida como idosos quando chegar a hora, na prática o _desconto hiperbólico_ [\[1\] ](#_ftn1)tende a fazer com que nos importemos muito pouco com nossos (distantes) “eus” futuros. Nossa programação de sobrevivência é implementada de maneira peculiar, usando emoções tais quais a antecipação, desejo e medo, priorizando possibilidades que parecem grandes, salientes e futuras, em vez de problemas e oportunidades objetivamente maiores em um futuro distante. Do ponto de vista evolutivo, isso faz sentido: o desconto hiperbólico pode ser explicado como uma consequência direta de viver em ambientes incertos. Nossos ambientes ancestrais eram caóticos e imprevisíveis: sempre que havia chance, colocar todos os recursos em um plano que garantisse a sobrevivência por um dia era mais eficaz do que dividir igualmente os recursos para melhorar as chances de sobreviver amanhã e no próximo ano.
+Pior ainda: embora a maioria dos jovens acredite, em nível intelectual, que são realmente eles que experienciarão a vida como idosos quando chegar a hora, na prática o _desconto hiperbólico_ [\[1\] ](#_ftn1)tende a fazer com que nos importemos muito pouco com nossos (distantes) “eus” futuros. Nossa programação de sobrevivência é implementada de maneira peculiar, usando emoções tais quais a antecipação, desejo e medo, priorizando possibilidades que parecem grandes, salientes e futuras, em vez de problemas e oportunidades objetivamente maiores em um futuro distante. Do ponto de vista evolutivo, isso faz sentido: o desconto hiperbólico pode ser explicado como uma consequência direta de viver em ambientes incertos. Nossos ambientes ancestrais eram caóticos e imprevisíveis: sempre que havia chance, colocar todos os recursos em um plano que garantisse a sobrevivência por um dia era mais eficaz do que dividir igualmente os recursos para melhorar as chances de sobreviver amanhã e no próximo ano.  
+  
+_\[1\] O desconto hiperbólico é um viés cognitivo que nos leva a valorizar benefícios imediatos e reduzir o valor de benefícios futuros (Fonte:_ [_https://warren.com.br/magazine/desconto-hiperbolico_](https://warren.com.br/magazine/desconto-hiperbolico "https://warren.com.br/magazine/desconto-hiperbolico")_)_
 
 **Qualia Emocional, Proposicional e Ontológica**
 
@@ -44,17 +45,24 @@ Graças a Daniel Kolak (o escritor de “I am You”), agora temos um vocabulár
 
 Esta é a visão de senso comum de sobrevivência e identidade pessoal. A maioria das pessoas são individualistas fechados, e nosso sentimento implícito é em grande parte individualista fechado. Essa visão afirma que “você começa a existir quando nasce e deixa de existir quando morre”. Dito isto, esta é apenas a formulação clássica. É possível ser um individualista fechado e acreditar em Deus e na vida após a morte. Por exemplo, as pessoas que acreditam nas principais religiões abraâmicas são geralmente individualistas fechados (gnósticos e místicos são exceções). Com uma pós vida (ou pré vida), a formulação é apenas ligeiramente diferente: “Você começa a existir quando nasce (quando sua alma é criada) e nunca deixa de existir”. As principais condições para que uma visão seja classificada como IF é que (1) haja no máximo uma instância de você em um determinado momento temporal e (2) você continue a existir momento após momento.
 
-![](/images/slide1.JPG)
+![](/images/slide1.JPG)![](/images/slide2.JPG)
 
 **Individualismo Vazio (IV)**
 
-Esta visão traz a ideia de que você só existe como uma fatia de tempo no espaço-tempo. Para um Individualista Vazio, a passagem do tempo é uma ilusão. A cada momento temporal você nasce, vive e morre, tudo simultaneamente. Isso não deve ser confundido com o eternalismo (em oposição ao presenteísmo) também chamado de “A Visão de Bloco do Universo”. Um Individualista Vazio pode ser um presentista e, nesse caso, ele acredita que só existe uma unidade de tempo (ou uma seção transversal de espaço-tempo infinitesimalmente fina, se o tempo for contínuo). Essa visão está intimamente relacionada ao Niilismo Mereológico[\[2\]](#_ftn2). Pessoas como David Hume, Derek Parfit e David Pearce acreditam nessa visão, assim como muitos filósofos fisicalistas. Entre as religiões clássicas do mundo, um exemplo notório de uma religião de IV é o budismo (embora isso dependa do ramo específico).
+Esta visão traz a ideia de que você só existe como uma fatia de tempo no espaço-tempo. Para um Individualista Vazio, a passagem do tempo é uma ilusão. A cada momento temporal você nasce, vive e morre, tudo simultaneamente. Isso não deve ser confundido com o eternalismo (em oposição ao presenteísmo) também chamado de “A Visão de Bloco do Universo”. Um Individualista Vazio pode ser um presentista e, nesse caso, ele acredita que só existe uma unidade de tempo (ou uma seção transversal de espaço-tempo infinitesimalmente fina, se o tempo for contínuo). Essa visão está intimamente relacionada ao Niilismo Mereológico[\[2\]](#_ftn2). Pessoas como David Hume, Derek Parfit e David Pearce acreditam nessa visão, assim como muitos filósofos fisicalistas. Entre as religiões clássicas do mundo, um exemplo notório de uma religião de IV é o budismo (embora isso dependa do ramo específico).  
+![](/images/slide3.JPG)![](/images/slide4.JPG)  
+  
+_\[2\] Tem por corolário que objetos com partes adequadas não existem (e objetos existentes no tempo não têm partes temporais), e apenas blocos de construção básicos (por exemplo, elétrons, quarks) existir. (Mereologia é a teoria das relações de parte com o todo, e as relações de parte com parte dentro de um todo). Esses menores blocos de construção são itens individuais e separados que nunca unificam ou_
+
+_tornam-se não-individuais. (Fonte:_ [_https://guiadafilosofia.com.br/tipos-de-niilismo/_](https://guiadafilosofia.com.br/tipos-de-niilismo/ "https://guiadafilosofia.com.br/tipos-de-niilismo/")_)_
 
 **Individualismo Aberto (IA)**
 
 Esta é a visão de que há apenas um sujeito (universal) na experiência. Alan Watts descreveria isso como a percepção de que todos nós somos “Deus jogando um jogo cósmico de esconde-esconde”. Cada entidade consciente pode ter uma forma distinta, uma personalidade distinta e um papel causal distinto em todo o universo, mas a essência por baixo de tudo é uma e a mesma. A cosmologia hindu é muitas vezes Individualista Aberta (todos somos feitos e repousamos sobre a mesma base de ser – Brahman). Individualistas abertos famosos incluem Einstein e Schopenhauer.
 
-Em um artigo futuro, abordarei o caso do homem de aço para cada uma dessas visões. Este artigo, no entanto, está focado nos _qualia_ subjacentes a essas visões... e não em seu mérito como verdades plausíveis.
+Em um artigo futuro, abordarei o caso do homem de aço para cada uma dessas visões. Este artigo, no entanto, está focado nos _qualia_ subjacentes a essas visões... e não em seu mérito como verdades plausíveis.  
+![](/images/slide5.JPG)![](/images/slide6.JPG)  
+_\[3\] O tálamo é uma estrutura localizada no diencéfalo, entre o córtex cerebral e o mesencéfalo, formada fundamentalmente por substância cinzenta (núcleos de neurônios) do encéfalo \[1\]. São duas massas neuronais situadas na profundidade dos hemisférios cerebrais. Dentre suas funções estão a transmissão de sinais motores e sensitivos para o córtex \[2\], além da regulação da consciência, sono e estado de alerta. (Fonte:_ [_https://pt.wikipedia.org/wiki/T%C3%A1lamo__](https://pt.wikipedia.org/wiki/T%C3%A1lamo_ "https://pt.wikipedia.org/wiki/T%C3%A1lamo_")_(anatomia))_
 
 **LSD: A Evolução Qualia Negligenciada**
 
@@ -82,7 +90,13 @@ Ao longo dos anos, no entanto, essa visão perdeu parte de seu apelo. Aos 21, co
 
 **Uma Realização Profunda e Sombria**
 
-Recentemente, tive uma das piores experiências da minha vida: após uma contemplação intensa sobre a questão da identidade pessoal e a natureza do sofrimento, minha mente temporariamente se acomodou com 100% de certeza (ou seja, certeza subjetiva) em uma interpretação individualista vazia. Percebi (no sentido de “experimentar como se fosse verdade”) um estado de consciência que acredita sem sombra de dúvida nas seguintes noções: Niilismo Mereológico, Individualismo Vazio, Eternalismo, Realismo de tom hedônico (em que o sofrimento é puramente ruim), Utilitarismo Negativo[\[5\]](#_ftn5) e alguns outros que não me recordo. Isso tudo foi horrível. Senti que estava preso no espaço-tempo para sempre. E, pior, essa realidade foi incrivelmente sádica e injusta: existem inúmeros seres que existem em estado de sofrimento para sempre. Considerando que com um ponto de vista Individualista Fechado ou Individualista Aberto pode-se racionalizar o sofrimento como sendo temporário e “não o todo da verdade”, um ponto de vista Individualista Vazio plenamente realizado não permite que você faça essa racionalização. Há seres que existem inteiramente abaixo do zero hedônico[\[6\]](#_ftn6). Toda a sua existência é sofrimento eterno. Experimentar compaixão em relação ao sofrimento “em fatias” de tempo era doloroso além do meu tom hedônico habitual.
+Recentemente, tive uma das piores experiências da minha vida: após uma contemplação intensa sobre a questão da identidade pessoal e a natureza do sofrimento, minha mente temporariamente se acomodou com 100% de certeza (ou seja, certeza subjetiva) em uma interpretação individualista vazia. Percebi (no sentido de “experimentar como se fosse verdade”) um estado de consciência que acredita sem sombra de dúvida nas seguintes noções: Niilismo Mereológico, Individualismo Vazio, Eternalismo, Realismo de tom hedônico (em que o sofrimento é puramente ruim), Utilitarismo Negativo[\[5\]](#_ftn5) e alguns outros que não me recordo. Isso tudo foi horrível. Senti que estava preso no espaço-tempo para sempre. E, pior, essa realidade foi incrivelmente sádica e injusta: existem inúmeros seres que existem em estado de sofrimento para sempre. Considerando que com um ponto de vista Individualista Fechado ou Individualista Aberto pode-se racionalizar o sofrimento como sendo temporário e “não o todo da verdade”, um ponto de vista Individualista Vazio plenamente realizado não permite que você faça essa racionalização. Há seres que existem inteiramente abaixo do zero hedônico[\[6\]](#_ftn6). Toda a sua existência é sofrimento eterno. Experimentar compaixão em relação ao sofrimento “em fatias” de tempo era doloroso além do meu tom hedônico habitual.  
+  
+\[4\] Referência a Hugh Everett, que a partir da mecânica quântica teorizou a existência do Multiverso.
+
+\[5\] Versão da teoria ética do utilitarismo que dá maior prioridade para a redução do sofrimento (utilidade negativa ou 'desutilidade') do que para o aumento da felicidade (utilidade positiva).\[1\] Isto difere do utilitarismo clássico, que não sustenta que a redução do sofrimento seja intrinsecamente mais importante do que o aumento da felicidade. (Fonte: [https://pt.wikipedia.org/wiki/Utilitarismo_negativo](https://pt.wikipedia.org/wiki/Utilitarismo_negativo "https://pt.wikipedia.org/wiki/Utilitarismo_negativo")).
+
+\[6\] Expressão que referencia a um estado de aflição e sofrimento constante.
 
 **Tom Hedônico e Qualia Ontológico**
 
@@ -102,7 +116,11 @@ Imagine que tanto “ser” quanto “não-ser” são conceitos ilusórios. Na 
 
 Experimentar _qualia_ ontológico que nega o Niilismo Mereológico e, portanto, impossibilita o Individualismo Vazio, permitiu-me libertar-me do meu caso de _qualia_ ontológico negativo (os psiquiatras serão capazes de diagnosticar esse problema?). Este foi o resultado de contemplar o Individualismo Vazio, e a cura foi contemplar a negação do Niilismo Mereológico. Eu recomendaria isso a qualquer um que esteja sofrendo por consequência desse conjunto muito específico de crenças.
 
-É possível que minha libertação dos qualia ontológicos negativos não tenha sido, em última análise, o resultado da simples mudança dos próprios qualia ontológicos? Também pode estar relacionado, novamente, a como a programação de sobrevivência é implementada com uma variedade de tons hedônicos positivos e negativos, dependendo de suas crenças sobre sobrevivência. No entanto, como estamos implementados atualmente, pode ser prudente encontrar maneiras de experimentar os _qualia_ ontológicos do Individualismo Aberto de maneira confiável, se por nenhuma outra razão que não seja usá-lo como um antidepressivo.
+É possível que minha libertação dos qualia ontológicos negativos não tenha sido, em última análise, o resultado da simples mudança dos próprios qualia ontológicos? Também pode estar relacionado, novamente, a como a programação de sobrevivência é implementada com uma variedade de tons hedônicos positivos e negativos, dependendo de suas crenças sobre sobrevivência. No entanto, como estamos implementados atualmente, pode ser prudente encontrar maneiras de experimentar os _qualia_ ontológicos do Individualismo Aberto de maneira confiável, se por nenhuma outra razão que não seja usá-lo como um antidepressivo.  
+  
+\[7\] Na mereologia, o termo “gunk” se aplica a qualquer todo cujas partes tenham outras partes próprias. Ou seja, um objeto gosmento não é feito de átomos indivisíveis ou simples. Como a parcialidade é transitiva, qualquer parte da gosma é ela mesma gosma. (Fonte: [https://en.wikipedia.org/wiki/Gunk_](https://en.wikipedia.org/wiki/Gunk_ "https://en.wikipedia.org/wiki/Gunk_")(mereology))
+
+\[8\] Conceito explanado na Obra “Admirável Mundo Novo”, de Aldous Huxley, que relata uma sociedade utópica.
 
 **Reduzindo a espiritualidade ao tom hedônico – e o tom hedônico à espiritualidade**
 
@@ -124,7 +142,11 @@ As crenças sobre a identidade pessoal têm implicações evolutivas fascinantes
 
 Indiscutivelmente, os Individualistas Fechados continuarão a ter medo da morte. “Medo” pode não ser necessariamente a maneira correta de mencionar: se o Imperativo Hedonista[\[10\]](#_ftn10) se concretizar, mesmo Individualistas Fechados podem experimentar uma felicidade tão profunda que desafia a descrição humana. Mas, eles ainda podem não querer chegar a um acordo com sua mortalidade. Quem se importa se o mundo inteiro é um ótimo lugar para se viver quando você não vai estar lá para experimentá-lo?
 
-Individualistas Vazios não se importarão muito com quem experimenta o quê. Eles provavelmente não terão motivação para garantir sua própria sobrevivência “pessoal”. Eles podem, no entanto, ter fortes preferências estéticas, e surpreendentemente as pessoas que têm a variedade específica de Individualismo Vazio que chamo de “Individualismo Tipo Vazio” (ou seja, elas existem e “são/estão” em cópias perfeitas de si mesmas, em vez de apenas em sua instância única de espaço-tempo) podem querer transformar toda a matéria e energia do universo em cópias perfeitas de si mesmos. Isto é, claro, se eles valorizam sua própria existência.
+Individualistas Vazios não se importarão muito com quem experimenta o quê. Eles provavelmente não terão motivação para garantir sua própria sobrevivência “pessoal”. Eles podem, no entanto, ter fortes preferências estéticas, e surpreendentemente as pessoas que têm a variedade específica de Individualismo Vazio que chamo de “Individualismo Tipo Vazio” (ou seja, elas existem e “são/estão” em cópias perfeitas de si mesmas, em vez de apenas em sua instância única de espaço-tempo) podem querer transformar toda a matéria e energia do universo em cópias perfeitas de si mesmos. Isto é, claro, se eles valorizam sua própria existência.  
+  
+_\[9\] A Memética é o estudo formal dos memes. Foi originada quando Richard Dawkins cunhou o conceito no seu livro O gene egoísta. Na busca de algo que pudesse ser classificado como a unidade fundamental conceptual da memória. (Fonte:_ [_https://pt.wikipedia.org/wiki/Mem%C3%A9tica_](https://pt.wikipedia.org/wiki/Mem%C3%A9tica "https://pt.wikipedia.org/wiki/Mem%C3%A9tica")_)_
+
+_\[10\] O imperativo hedonista descreve como a engenharia genética e a nanotecnologia erradicarão todo o sofrimento da vida senciente. (Fonte:_ [_http://sinsufrimiento.org/el-imperativo-hedonista-inicio.html_](http://sinsufrimiento.org/el-imperativo-hedonista-inicio.html "http://sinsufrimiento.org/el-imperativo-hedonista-inicio.html")_)_
 
 Agora, os Individualistas Abertos teriam uma vantagem estratégica fundamental. Sua teoria de decisão seria nova e fascinante: uma visão da ética do “olho de Deus”. Eles não se importariam se seus próprios corpos sobreviveriam no futuro, desde que os seres sencientes como um todo habitassem estados de consciência felizes, sábios e/ou novos. Além disso, os IAs aceitariam mudar radicalmente seu estado de consciência. Individualistas fechados do tipo de critério psicológico (que acreditam existir desde que compartilhem uma quantidade de memórias com seus “seus” futuros) não estariam interessados ​​em mudar radicalmente seus estados de consciência. Por tudo que eles sabem, isso é o mesmo que a morte. Os IAs fariam muita pesquisa de consciência sem se preocupar com a morte.
 
@@ -154,4 +176,7 @@ tornam-se não-individuais. (Fonte: [https://guiadafilosofia.com.br/tipos-de-nii
 
 [\[9\]](#_ftnref9) A Memética é o estudo formal dos memes. Foi originada quando Richard Dawkins cunhou o conceito no seu livro O gene egoísta. Na busca de algo que pudesse ser classificado como a unidade fundamental conceptual da memória. (Fonte: [https://pt.wikipedia.org/wiki/Mem%C3%A9tica](https://pt.wikipedia.org/wiki/Mem%C3%A9tica "https://pt.wikipedia.org/wiki/Mem%C3%A9tica"))
 
-[\[10\]](#_ftnref10) O imperativo hedonista descreve como a engenharia genética e a nanotecnologia erradicarão todo o sofrimento da vida senciente. (Fonte: [http://sinsufrimiento.org/el-imperativo-hedonista-inicio.html](http://sinsufrimiento.org/el-imperativo-hedonista-inicio.html "http://sinsufrimiento.org/el-imperativo-hedonista-inicio.html"))
+[\[10\]](#_ftnref10) O imperativo hedonista descreve como a engenharia genética e a nanotecnologia erradicarão todo o sofrimento da vida senciente. (Fonte: [http://sinsufrimiento.org/el-imperativo-hedonista-inicio.html](http://sinsufrimiento.org/el-imperativo-hedonista-inicio.html "http://sinsufrimiento.org/el-imperativo-hedonista-inicio.html"))  
+  
+Traduzido do artigo original:  
+[https://qualiacomputing.com/2015/12/17/ontological-qualia-the-future-of-personal-identity/](https://qualiacomputing.com/2015/12/17/ontological-qualia-the-future-of-personal-identity/ "https://qualiacomputing.com/2015/12/17/ontological-qualia-the-future-of-personal-identity/") por Helo Antunes
