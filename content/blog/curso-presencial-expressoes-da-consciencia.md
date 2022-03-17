@@ -1,13 +1,12 @@
 +++
 author = ""
-categories = []
+categories = ["biohacking", "yoga", "meditacao"]
 date = 2022-03-17T19:53:56Z
 description = ""
-draft = true
 image = "/images/blue-and-red-vintage-poker-casino-party-facebook-event-cover-3.png"
-tags = []
+tags = ["biohacking", "tecnologia", "consciencia", "consciencia"]
 title = "CURSO PRESENCIAL: EXPRESSÕES DA CONSCIÊNCIA"
-type = ""
+type = "featured"
 
 +++
 CURSO PRESENCIAL:  

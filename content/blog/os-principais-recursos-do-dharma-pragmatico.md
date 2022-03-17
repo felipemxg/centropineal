@@ -6,7 +6,7 @@ description = "O que é o Dharma pragmático e quais são suas visões?"
 image = "/images/a21929a.jpeg"
 tags = ["meditação"]
 title = "Os Principais Recursos do Dharma Pragmático"
-type = "featured"
+type = "post"
 
 +++
 O Dharma pragmático é uma abordagem moderna do caminho do despertar. Retira-se dos ensinamentos e práticas testados pelo tempo da tradição budista, mas é simultaneamente infundido com uma mentalidade moderna que não tem medo de mexer com um tradicional tradicional. O Dharma pragmático, em sua essência, trata de fazer a pergunta: O que funciona?
