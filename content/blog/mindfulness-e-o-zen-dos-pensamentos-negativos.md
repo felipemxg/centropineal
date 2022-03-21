@@ -9,6 +9,10 @@ title = "Mindfulness e o Zen dos Pensamentos Negativos"
 type = "post"
 
 +++
+> “É bom se sentir inútil, só não deixe isso te derrubar.”
+>
+> Noritake Roshi
+
 No último dia de um retiro recente com Noritake Roshi, tive uma reunião com ele conhecida como sekke, onde o aluno é livre para fazer qualquer pergunta que possa ter sobre a prática Zen. Um tradutor está presente para ajudar na comunicação. No início da minha prática, eu tinha um milhão de perguntas sobre cada pequena nuance de como meditar. Eu estava tentando dominar uma maneira totalmente nova de me relacionar com a experiência. Então, fiz pergunta após pergunta ao meu professor de Mindfulness, Shinzen.
 
 Como o Mindfulness é baseado em técnica e estratégia, você pode perguntar sobre seu processo interno e obter respostas claras e precisas, algo que sempre apreciei muito na forma. Desmistifica o “como” da meditação. E se você já teve a oportunidade de treinar com Shinzen, você sabe que ele é um virtuoso em perguntas e respostas sobre o processo de meditação, então sempre recebi respostas incrivelmente úteis. Com o passar do tempo, minhas perguntas se tornaram menos frequentes. Isso ocorreu em parte porque, à medida que minha prática evoluiu, tive maior clareza sobre o processo, em parte porque aprendi a me aprofundar mais no não saber, deixando a resposta se revelar no tempo (o que o Rinzai Zen enfatiza fortemente) e em parte porque em um certo ponto a resposta será sempre a mesma – continue praticando! Mas não se engane, toda vez que sou apresentada a uma nova técnica ou a um professor diferente, começo do início, fazendo todas as perguntas que preciso, para entender completamente a metodologia.
@@ -32,5 +36,7 @@ Noritake argumentou comigo, dizendo que sentir-se inútil era uma posição muit
 > “É bom se sentir inútil, só não deixe isso te derrubar.”
 >
 > Noritake Roshi
+
+_Fonte:_ [_https://unifiedmindfulness.com/mindfulness-zen-negative-thoughts/_](https://unifiedmindfulness.com/mindfulness-zen-negative-thoughts/ "https://unifiedmindfulness.com/mindfulness-zen-negative-thoughts/")
 
 _Tradução por Felipe Marx_
