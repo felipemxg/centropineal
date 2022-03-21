@@ -32,3 +32,5 @@ Noritake argumentou comigo, dizendo que sentir-se inútil era uma posição muit
 > “É bom se sentir inútil, só não deixe isso te derrubar.”
 >
 > Noritake Roshi
+
+_Tradução por Felipe Marx_
