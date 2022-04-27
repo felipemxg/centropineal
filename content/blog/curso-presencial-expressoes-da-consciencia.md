@@ -6,7 +6,7 @@ description = ""
 image = "/images/blue-and-red-vintage-poker-casino-party-facebook-event-cover-3.png"
 tags = ["biohacking", "tecnologia", "consciencia", "consciencia"]
 title = "CURSO PRESENCIAL: EXPRESSÕES DA CONSCIÊNCIA"
-type = "featured"
+type = "post"
 
 +++
 CURSO PRESENCIAL:  
