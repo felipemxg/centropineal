@@ -2,7 +2,7 @@
 author = ""
 categories = []
 date = 2022-04-27T23:05:55Z
-description = ""
+description = "Conheça nossas práticas:"
 image = "/images/untitled_artwork.png"
 tags = []
 title = "C E N T R O P I N E A L"
