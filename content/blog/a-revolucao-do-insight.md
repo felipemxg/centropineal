@@ -9,17 +9,7 @@ title = "A revolução do insight"
 type = "post"
 
 +++
-[**B _d_**](http://lionsroar.com/buddhadharma)
-
 # A revolução do insight
-
-POR [**ERIK BRAUN**](https://www.lionsroar.com/author/erik-braun/ "Postagens de Erik Braun") |5 DE JULHO DE 2018
-
-* [Clique para compartilhar no Facebook (abre em nova janela)](https://www.lionsroar.com/the-insight-revolution/?share=facebook&nb=1 "Clique para compartilhar no Facebook")
-* [Clique para compartilhar no Twitter (abre em nova janela)](https://www.lionsroar.com/the-insight-revolution/?share=twitter&nb=1 "Clique para compartilhar no Twitter")
-* [Clique para compartilhar no Pinterest (abre em nova janela)](https://www.lionsroar.com/the-insight-revolution/?share=pinterest&nb=1 "Clique para compartilhar no Pinterest")
-* [Clique para compartilhar no Reddit (abre em nova janela)](https://www.lionsroar.com/the-insight-revolution/?share=reddit&nb=1 "Clique para compartilhar no Reddit")
-* 
 
 #### Determinado a salvar o budismo na Birmânia durante o domínio colonial, Ledi Sayadaw popularizou os ensinamentos do Abhidharma e introduziu milhares de leigos na prática da meditação do insight. Como Erik Braun nos diz, ele colocou em movimento uma revolução na prática budista que ainda é sentida em todo o mundo.
 
@@ -45,10 +35,10 @@ Um estudioso promissor, Ledi Sayadaw ganhou destaque e logo foi nomeado professo
 
 A meditação estava presente no currículo, mas apenas como outro tópico de estudo, muitas vezes apresentado em relação à filosofia do Abhidhamma. Ledi Sayadaw viu como seus professores usavam esse pensamento teórico sobre meditação - mas não sua prática - como uma forma de entender o mundo em termos de Abhidhamma. Poucos monges meditavam, e aqueles que o faziam normalmente viviam longe da agitação da capital real. A falta de ênfase na meditação nos mosteiros às vezes surpreende as pessoas, especialmente quando se trata da Birmânia, onde a meditação do insight é tão proeminente que, às vezes, parece ser a exportação número um do país.
 
-O tempo de Ledi Sayadaw abrigado na atmosfera escolástica rarefeita de um mosteiro apoiado pela realeza em Mandalay não duraria. Sua vida virou de cabeça para baixo com o colapso da lei e da ordem que acompanhou o reinado do próximo e último rei birmanês, Thibaw (1878-1885). Durante o governo de Thibaw, a ilegalidade aumentou e a sociedade ficou desestabilizada. Um grande incêndio eclodiu na capital em 1883, arrasando Thanjaun junto com todo o bairro norte da cidade. Ledi Sayadaw perdeu sua casa e seus professores e alunos foram dispersos. Ele também perdeu as extensas notas de um livro em que vinha trabalhando há anos.  
-  
-![](/images/burma-1.jpg)  
-  
+O tempo de Ledi Sayadaw abrigado na atmosfera escolástica rarefeita de um mosteiro apoiado pela realeza em Mandalay não duraria. Sua vida virou de cabeça para baixo com o colapso da lei e da ordem que acompanhou o reinado do próximo e último rei birmanês, Thibaw (1878-1885). Durante o governo de Thibaw, a ilegalidade aumentou e a sociedade ficou desestabilizada. Um grande incêndio eclodiu na capital em 1883, arrasando Thanjaun junto com todo o bairro norte da cidade. Ledi Sayadaw perdeu sua casa e seus professores e alunos foram dispersos. Ele também perdeu as extensas notas de um livro em que vinha trabalhando há anos.
+
+![](/images/burma-1.jpg)
+
 De repente, livre de cargos ou deveres e talvez chocado com tal evento, ele voltou para a aldeia de sua família. Mas seu retorno não foi um recuo. Em vez disso, em um curto espaço de tempo, ele fundou um mosteiro na vizinha “floresta Ledi” que lhe daria seu nome, Ledi Sayadaw, ou o “respeitado professor da floresta Ledi”. Foi nessa época que ele começou a meditar a sério, usando a teoria que aprendera em Mandalay. A anexação da Birmânia real pelos britânicos em 1885 apenas cimentou seu sentimento de que o tempo era essencial. A ameaça ao budismo agora era imediata.
 
 Nos anos seguintes, Ledi Sayadaw tornou a meditação central em sua vida. Eventualmente, em 1900, ele até desistiu do controle de seu mosteiro e se mudou para cavernas nas montanhas próximas às margens do rio Chindwin para se concentrar mais intensamente em sua prática. Uma biografia birmanesa relata que seu samadhi se tornou tão profundo durante esse período que um atendente, verificando-o um dia, o encontrou flutuando a meio metro do chão! Verdade ou não, os próprios relatos de Ledi Sayadaw durante esse período também falam de profundas conquistas em acalmar sua mente. No único documento em que ele se refere às suas próprias realizações meditativas, ele diz:
@@ -63,8 +53,8 @@ Uma declaração tão contundente de realização meditativa por um monge Therav
 
 Talvez tenha sido por causa dessas realizações que ele sentiu que o momento era propício para outra mudança dramática em sua vida, especialmente porque ele acreditava que a era budista estava chegando ao fim. Foi logo após escrever sua proclamação poética, em 1903, que Ledi Sayadaw subiu ao palco nacional. A partir deste ponto, ele empreendeu um programa de viagens quase incessantes por todo o país, viajando milhares e milhares de milhas, do extremo norte ao extremo sul e às fronteiras a leste e oeste. Ele alcançou as massas pregando o budismo onde quer que fosse, escrevendo dezenas de livros, poemas e ensaios budistas e organizando leigos em grupos sociais para estudo e auto-aperfeiçoamento. Ele se tornou tremendamente popular. Um oficial britânico observou: “Aonde quer que fosse, era recebido por multidões extasiadas.
 
-Ledi Sayadaw não negligenciou as questões morais. Ele argumentou em seus discursos e na imprensa contra beber licor, consumir ópio e comer carne bovina, entre outras coisas - vícios que ele sentiu serem encorajados pelos britânicos. Ele teria dito: “Não tenho certeza se o governo aprovará minha pregação. Haverá muita perda de receita; pois quando eu terminar, todas as lojas de bebidas e ópio serão fechadas por falta de costume.”  
-  
+Ledi Sayadaw não negligenciou as questões morais. Ele argumentou em seus discursos e na imprensa contra beber licor, consumir ópio e comer carne bovina, entre outras coisas - vícios que ele sentiu serem encorajados pelos britânicos. Ele teria dito: “Não tenho certeza se o governo aprovará minha pregação. Haverá muita perda de receita; pois quando eu terminar, todas as lojas de bebidas e ópio serão fechadas por falta de costume.”
+
 ![](/images/burma-2.jpg)  
 Mas, acima de tudo, quando Ledi Sayadaw pregava e escrevia, falava sobre o Abhidhamma. Como disse um escritor birmanês, ele “deu como a chuva caindo”. A meditação também se tornou um assunto importante, mas geralmente era apresentada no contexto de ensinamentos doutrinários, especialmente o Abhidhamma. Para entender como ele popularizou a prática do insight, é preciso primeiro entender como ele popularizou o estudo da filosofia budista.
 
@@ -90,6 +80,6 @@ E há muitos. Em sucessão direta, ele ensinou o leigo Thetgyi, que ensinou U Ba
 
 Ledi Sayadaw foi um inovador que usou sua formação acadêmica e preocupação com o futuro da tradição budista para tornar a prática possível em grande escala. Mas seu legado é mais profundo, pois ele também popularizou a noção de que a prática pode definir o lugar de uma pessoa no budismo. Seja intencional ou não, esse movimento altamente democrático teve profundas implicações para o budismo na era moderna. A linhagem no cômputo budista sempre foi mais do que uma lista de nomes ou mesmo uma comemoração de grandes mestres. É, antes, um túnel no tempo, uma espécie de buraco de minhoca para o próprio Buda e a promessa de seus ensinamentos. Em um sentido não literal, mas vital, sentar-se profundamente em meditação traz o despertar do Buda, cerca de 2.500 anos atrás, mais próximo do que os pratos de ontem ou a última eleição presidencial. Leva o praticante a um relacionamento poderoso e imediato com o Buda. Tal prática levou à elevação do papel do leigo no budismo e até preparou o terreno para que a meditação se destacasse do resto do budismo como uma tradição separada por direito próprio. De alcance maior do que ele poderia ter imaginado, tais desenvolvimentos, em todas as suas implicações de longo alcance, têm suas origens nos esforços de Ledi Sayadaw.
 
-_Traduzido do artigo original por Kaio Shimanski:   
-  
-_[_https://www.lionsroar.com/the-insight-revolution/_](https://www.lionsroar.com/the-insight-revolution/ "https://www.lionsroar.com/the-insight-revolution/")__
+_Traduzido do artigo original por Kaio Shimanski:
+
+[_https://www.lionsroar.com/the-insight-revolution/_](https://www.lionsroar.com/the-insight-revolution/ "https://www.lionsroar.com/the-insight-revolution/")_
